@@ -1,0 +1,25 @@
+stages:
+  config_generation:
+    cmd: python ../scruf_d/_toml_gen.py
+    params:
+    - config.rec_weight
+    - config.choice
+    - config.allocation
+  run_scruf:
+    cmd: python ../scruf_d/__main__MODIFY.py
+    outs: kiva/data/history_file_borda_least_kiva_1_RuleBorda_product_lottery_1.json
+  post_process:
+    cmd:
+    deps: kiva/data/history_file*.json
+    params:
+      - post.recs_file
+      - post.items_file
+      - post.base_path
+      - post.agents
+
+    outs:
+      results.csv
+
+
+
+

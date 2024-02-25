@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  config_generation:
+    cmd: python ../scruf_d/_toml_gen.py
+    params:
+      params.yaml:
+        config.allocation:
+        - product_lottery
+        config.choice:
+        - RuleBorda
+        config.rec_weight:
+        - 2
+  run_scruf:
+    cmd: python ../scruf_d/__main__MODIFY.py
