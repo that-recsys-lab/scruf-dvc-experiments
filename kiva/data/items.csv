@@ -63,7 +63,7 @@
 15,COUNTRY_Cambodia,1
 15,loan_buck_2,1
 15,pfr_buck_3,1
-17,ACTIVITY_Services,1
+17,ACTIVITY_low_pfr,1
 17,GENDER_M,1
 17,COUNTRY_Lebanon,1
 17,loan_buck_6,1
@@ -88,7 +88,7 @@
 21,COUNTRY_Ghana,1
 21,loan_buck_7,1
 21,pfr_buck_2,1
-23,ACTIVITY_Farming,1
+23,ACTIVITY_low_pfr,1
 23,GENDER_M,1
 23,COUNTRY_Lebanon,1
 23,loan_buck_7,1
@@ -103,7 +103,7 @@
 26,COUNTRY_Nicaragua,1
 26,loan_buck_3,1
 26,pfr_buck_3,1
-27,ACTIVITY_Farming,1
+27,ACTIVITY_low_pfr,1
 27,GENDER_M,1
 27,COUNTRY_Tajikistan,1
 27,loan_buck_1,1
@@ -128,7 +128,7 @@
 32,COUNTRY_Bolivia,1
 32,loan_buck_8,1
 32,pfr_buck_1,1
-33,ACTIVITY_Farming,1
+33,ACTIVITY_low_pfr,1
 33,GENDER_M,1
 33,COUNTRY_Congo,1
 33,loan_buck_2,1
@@ -168,7 +168,7 @@
 41,COUNTRY_Colombia,1
 41,loan_buck_1,1
 41,pfr_buck_3,1
-43,ACTIVITY_Farming,1
+43,ACTIVITY_low_pfr,1
 43,GENDER_F,1
 43,COUNTRY_Ghana,1
 43,loan_buck_5,1
@@ -178,7 +178,7 @@
 44,COUNTRY_Bolivia,1
 44,loan_buck_9,1
 44,pfr_buck_2,1
-45,ACTIVITY_Cafe,1
+45,ACTIVITY_low_pfr,1
 45,GENDER_F,1
 45,COUNTRY_El,1
 45,loan_buck_1,1
@@ -268,7 +268,7 @@
 65,COUNTRY_Ecuador,1
 65,loan_buck_4,1
 65,pfr_buck_2,1
-66,ACTIVITY_Pub,1
+66,ACTIVITY_low_pfr,1
 66,GENDER_M,1
 66,COUNTRY_Uganda,1
 66,loan_buck_3,1
@@ -348,7 +348,7 @@
 81,COUNTRY_United,1
 81,loan_buck_9,1
 81,pfr_buck_1,1
-82,ACTIVITY_Taxi,1
+82,ACTIVITY_low_pfr,1
 82,GENDER_F,1
 82,COUNTRY_Cambodia,1
 82,loan_buck_5,1
@@ -378,7 +378,7 @@
 89,COUNTRY_low_pfr,1
 89,loan_buck_4,1
 89,pfr_buck_2,1
-90,ACTIVITY_Farming,1
+90,ACTIVITY_low_pfr,1
 90,GENDER_F,1
 90,COUNTRY_Cameroon,1
 90,loan_buck_7,1
@@ -393,12 +393,12 @@
 94,COUNTRY_Armenia,1
 94,loan_buck_6,1
 94,pfr_buck_2,1
-95,ACTIVITY_Cafe,1
+95,ACTIVITY_low_pfr,1
 95,GENDER_M,1
 95,COUNTRY_low_pfr,1
 95,loan_buck_5,1
 95,pfr_buck_2,1
-96,ACTIVITY_Health,1
+96,ACTIVITY_low_pfr,1
 96,GENDER_F,1
 96,COUNTRY_United,1
 96,loan_buck_9,1
@@ -463,7 +463,7 @@
 113,COUNTRY_Jordan,1
 113,loan_buck_7,1
 113,pfr_buck_2,1
-114,ACTIVITY_Farming,1
+114,ACTIVITY_low_pfr,1
 114,GENDER_M,1
 114,COUNTRY_low_pfr,1
 114,loan_buck_0,1
@@ -548,7 +548,7 @@
 133,COUNTRY_Malawi,1
 133,loan_buck_6,1
 133,pfr_buck_1,1
-134,ACTIVITY_Farming,1
+134,ACTIVITY_low_pfr,1
 134,GENDER_F,1
 134,COUNTRY_Philippines,1
 134,loan_buck_1,1
@@ -598,7 +598,7 @@
 146,COUNTRY_Nicaragua,1
 146,loan_buck_3,1
 146,pfr_buck_3,1
-147,ACTIVITY_Farming,1
+147,ACTIVITY_low_pfr,1
 147,GENDER_F,1
 147,COUNTRY_Cambodia,1
 147,loan_buck_5,1
@@ -638,7 +638,7 @@
 156,COUNTRY_Honduras,1
 156,loan_buck_4,1
 156,pfr_buck_1,1
-157,ACTIVITY_Services,1
+157,ACTIVITY_low_pfr,1
 157,GENDER_F,1
 157,COUNTRY_Bolivia,1
 157,loan_buck_7,1
@@ -658,7 +658,7 @@
 162,COUNTRY_Palestine,1
 162,loan_buck_5,1
 162,pfr_buck_2,1
-163,ACTIVITY_Farming,1
+163,ACTIVITY_low_pfr,1
 163,GENDER_F,1
 163,COUNTRY_Kenya,1
 163,loan_buck_1,1
@@ -923,7 +923,7 @@
 228,COUNTRY_Bolivia,1
 228,loan_buck_8,1
 228,pfr_buck_2,1
-229,ACTIVITY_Farming,1
+229,ACTIVITY_low_pfr,1
 229,GENDER_M,1
 229,COUNTRY_Kenya,1
 229,loan_buck_1,1
@@ -948,7 +948,7 @@
 235,COUNTRY_low_pfr,1
 235,loan_buck_3,1
 235,pfr_buck_2,1
-236,ACTIVITY_Taxi,1
+236,ACTIVITY_low_pfr,1
 236,GENDER_M,1
 236,COUNTRY_Peru,1
 236,loan_buck_7,1
@@ -998,7 +998,7 @@
 246,COUNTRY_Lebanon,1
 246,loan_buck_6,1
 246,pfr_buck_1,1
-247,ACTIVITY_Farming,1
+247,ACTIVITY_low_pfr,1
 247,GENDER_M,1
 247,COUNTRY_Armenia,1
 247,loan_buck_5,1
@@ -1028,7 +1028,7 @@
 252,COUNTRY_Brazil,1
 252,loan_buck_8,1
 252,pfr_buck_2,1
-253,ACTIVITY_Services,1
+253,ACTIVITY_low_pfr,1
 253,GENDER_F,1
 253,COUNTRY_Philippines,1
 253,loan_buck_2,1
@@ -1103,7 +1103,7 @@
 270,COUNTRY_Paraguay,1
 270,loan_buck_5,1
 270,pfr_buck_3,1
-272,ACTIVITY_Farming,1
+272,ACTIVITY_low_pfr,1
 272,GENDER_F,1
 272,COUNTRY_Tajikistan,1
 272,loan_buck_3,1
@@ -1148,7 +1148,7 @@
 281,COUNTRY_Togo,1
 281,loan_buck_2,1
 281,pfr_buck_2,1
-282,ACTIVITY_Farming,1
+282,ACTIVITY_low_pfr,1
 282,GENDER_F,1
 282,COUNTRY_Uganda,1
 282,loan_buck_5,1
@@ -1198,7 +1198,7 @@
 292,COUNTRY_low_pfr,1
 292,loan_buck_5,1
 292,pfr_buck_3,1
-293,ACTIVITY_Aquaculture,1
+293,ACTIVITY_low_pfr,1
 293,GENDER_M,1
 293,COUNTRY_Colombia,1
 293,loan_buck_3,1
@@ -1273,7 +1273,7 @@
 307,COUNTRY_Ecuador,1
 307,loan_buck_4,1
 307,pfr_buck_2,1
-308,ACTIVITY_Services,1
+308,ACTIVITY_low_pfr,1
 308,GENDER_M,1
 308,COUNTRY_Paraguay,1
 308,loan_buck_4,1
@@ -1308,12 +1308,12 @@
 315,COUNTRY_El,1
 315,loan_buck_1,1
 315,pfr_buck_3,1
-316,ACTIVITY_Farming,1
+316,ACTIVITY_low_pfr,1
 316,GENDER_M,1
 316,COUNTRY_Cambodia,1
 316,loan_buck_4,1
 316,pfr_buck_1,1
-317,ACTIVITY_Farming,1
+317,ACTIVITY_low_pfr,1
 317,GENDER_M,1
 317,COUNTRY_El,1
 317,loan_buck_1,1
@@ -1333,12 +1333,12 @@
 323,COUNTRY_Philippines,1
 323,loan_buck_2,1
 323,pfr_buck_2,1
-325,ACTIVITY_Farming,1
+325,ACTIVITY_low_pfr,1
 325,GENDER_F,1
 325,COUNTRY_El,1
 325,loan_buck_2,1
 325,pfr_buck_2,1
-326,ACTIVITY_Farming,1
+326,ACTIVITY_low_pfr,1
 326,GENDER_F,1
 326,COUNTRY_Colombia,1
 326,loan_buck_3,1
@@ -1403,7 +1403,7 @@
 341,COUNTRY_Peru,1
 341,loan_buck_5,1
 341,pfr_buck_1,1
-342,ACTIVITY_Taxi,1
+342,ACTIVITY_low_pfr,1
 342,GENDER_M,1
 342,COUNTRY_Uganda,1
 342,loan_buck_4,1
@@ -1533,7 +1533,7 @@
 373,COUNTRY_Guatemala,1
 373,loan_buck_4,1
 373,pfr_buck_3,1
-375,ACTIVITY_Aquaculture,1
+375,ACTIVITY_low_pfr,1
 375,GENDER_F,1
 375,COUNTRY_Bolivia,1
 375,loan_buck_8,1
@@ -1603,12 +1603,12 @@
 392,COUNTRY_United,1
 392,loan_buck_9,1
 392,pfr_buck_1,1
-393,ACTIVITY_Farming,1
+393,ACTIVITY_low_pfr,1
 393,GENDER_M,1
 393,COUNTRY_Colombia,1
 393,loan_buck_2,1
 393,pfr_buck_0,1
-394,ACTIVITY_Pub,1
+394,ACTIVITY_low_pfr,1
 394,GENDER_F,1
 394,COUNTRY_Cameroon,1
 394,loan_buck_2,1
@@ -1668,7 +1668,7 @@
 406,COUNTRY_Malawi,1
 406,loan_buck_8,1
 406,pfr_buck_3,1
-407,ACTIVITY_Farming,1
+407,ACTIVITY_low_pfr,1
 407,GENDER_F,1
 407,COUNTRY_Philippines,1
 407,loan_buck_2,1
@@ -1718,7 +1718,7 @@
 417,COUNTRY_Vietnam,1
 417,loan_buck_3,1
 417,pfr_buck_2,1
-418,ACTIVITY_Farming,1
+418,ACTIVITY_low_pfr,1
 418,GENDER_M,1
 418,COUNTRY_low_pfr,1
 418,loan_buck_8,1
@@ -1983,12 +1983,12 @@
 478,COUNTRY_Pakistan,1
 478,loan_buck_1,1
 478,pfr_buck_3,1
-479,ACTIVITY_Cafe,1
+479,ACTIVITY_low_pfr,1
 479,GENDER_M,1
 479,COUNTRY_Lebanon,1
 479,loan_buck_6,1
 479,pfr_buck_1,1
-480,ACTIVITY_Farming,1
+480,ACTIVITY_low_pfr,1
 480,GENDER_M,1
 480,COUNTRY_Myanmar,1
 480,loan_buck_4,1
@@ -1998,7 +1998,7 @@
 482,COUNTRY_low_pfr,1
 482,loan_buck_6,1
 482,pfr_buck_3,1
-483,ACTIVITY_Farming,1
+483,ACTIVITY_low_pfr,1
 483,GENDER_M,1
 483,COUNTRY_low_pfr,1
 483,loan_buck_3,1
@@ -2013,7 +2013,7 @@
 485,COUNTRY_low_pfr,1
 485,loan_buck_5,1
 485,pfr_buck_1,1
-486,ACTIVITY_Aquaculture,1
+486,ACTIVITY_low_pfr,1
 486,GENDER_M,1
 486,COUNTRY_Vietnam,1
 486,loan_buck_7,1
@@ -2028,7 +2028,7 @@
 488,COUNTRY_Samoa,1
 488,loan_buck_3,1
 488,pfr_buck_2,1
-490,ACTIVITY_Farming,1
+490,ACTIVITY_low_pfr,1
 490,GENDER_F,1
 490,COUNTRY_Paraguay,1
 490,loan_buck_8,1
@@ -2043,7 +2043,7 @@
 494,COUNTRY_Kenya,1
 494,loan_buck_0,1
 494,pfr_buck_0,1
-495,ACTIVITY_Farming,1
+495,ACTIVITY_low_pfr,1
 495,GENDER_F,1
 495,COUNTRY_Peru,1
 495,loan_buck_7,1
@@ -2128,7 +2128,7 @@
 516,COUNTRY_Palestine,1
 516,loan_buck_8,1
 516,pfr_buck_3,1
-517,ACTIVITY_Farming,1
+517,ACTIVITY_low_pfr,1
 517,GENDER_M,1
 517,COUNTRY_Uganda,1
 517,loan_buck_3,1
@@ -2183,7 +2183,7 @@
 529,COUNTRY_Lebanon,1
 529,loan_buck_6,1
 529,pfr_buck_2,1
-530,ACTIVITY_Farming,1
+530,ACTIVITY_low_pfr,1
 530,GENDER_M,1
 530,COUNTRY_Philippines,1
 530,loan_buck_2,1
@@ -2208,7 +2208,7 @@
 536,COUNTRY_Uganda,1
 536,loan_buck_2,1
 536,pfr_buck_2,1
-537,ACTIVITY_Aquaculture,1
+537,ACTIVITY_low_pfr,1
 537,GENDER_F,1
 537,COUNTRY_Vietnam,1
 537,loan_buck_6,1
@@ -2258,7 +2258,7 @@
 550,COUNTRY_Kenya,1
 550,loan_buck_0,1
 550,pfr_buck_2,1
-551,ACTIVITY_Entertainment,1
+551,ACTIVITY_low_pfr,1
 551,GENDER_M,1
 551,COUNTRY_Lebanon,1
 551,loan_buck_6,1
@@ -2328,7 +2328,7 @@
 568,COUNTRY_low_pfr,1
 568,loan_buck_8,1
 568,pfr_buck_3,1
-569,ACTIVITY_Hardware,1
+569,ACTIVITY_low_pfr,1
 569,GENDER_F,1
 569,COUNTRY_Zimbabwe,1
 569,loan_buck_7,1
@@ -2393,7 +2393,7 @@
 582,COUNTRY_Philippines,1
 582,loan_buck_3,1
 582,pfr_buck_3,1
-585,ACTIVITY_Aquaculture,1
+585,ACTIVITY_low_pfr,1
 585,GENDER_F,1
 585,COUNTRY_Cambodia,1
 585,loan_buck_5,1
@@ -2403,7 +2403,7 @@
 588,COUNTRY_Kosovo,1
 588,loan_buck_6,1
 588,pfr_buck_3,1
-589,ACTIVITY_Electrician,1
+589,ACTIVITY_low_pfr,1
 589,GENDER_F,1
 589,COUNTRY_Pakistan,1
 589,loan_buck_1,1
@@ -2413,7 +2413,7 @@
 590,COUNTRY_low_pfr,1
 590,loan_buck_5,1
 590,pfr_buck_2,1
-591,ACTIVITY_Farming,1
+591,ACTIVITY_low_pfr,1
 591,GENDER_F,1
 591,COUNTRY_Tanzania,1
 591,loan_buck_5,1
@@ -2428,7 +2428,7 @@
 594,COUNTRY_Tanzania,1
 594,loan_buck_4,1
 594,pfr_buck_1,1
-595,ACTIVITY_Farming,1
+595,ACTIVITY_low_pfr,1
 595,GENDER_M,1
 595,COUNTRY_Tanzania,1
 595,loan_buck_5,1
@@ -2453,7 +2453,7 @@
 600,COUNTRY_Kenya,1
 600,loan_buck_0,1
 600,pfr_buck_3,1
-601,ACTIVITY_Farming,1
+601,ACTIVITY_low_pfr,1
 601,GENDER_F,1
 601,COUNTRY_Tajikistan,1
 601,loan_buck_4,1
@@ -2568,7 +2568,7 @@
 625,COUNTRY_Peru,1
 625,loan_buck_4,1
 625,pfr_buck_2,1
-626,ACTIVITY_Farming,1
+626,ACTIVITY_low_pfr,1
 626,GENDER_M,1
 626,COUNTRY_Tanzania,1
 626,loan_buck_3,1
@@ -2593,12 +2593,12 @@
 630,COUNTRY_United,1
 630,loan_buck_8,1
 630,pfr_buck_2,1
-632,ACTIVITY_Services,1
+632,ACTIVITY_low_pfr,1
 632,GENDER_M,1
 632,COUNTRY_low_pfr,1
 632,loan_buck_5,1
 632,pfr_buck_0,1
-634,ACTIVITY_Photography,1
+634,ACTIVITY_low_pfr,1
 634,GENDER_M,1
 634,COUNTRY_Lebanon,1
 634,loan_buck_7,1
@@ -2633,7 +2633,7 @@
 641,COUNTRY_Madagascar,1
 641,loan_buck_0,1
 641,pfr_buck_3,1
-642,ACTIVITY_Farming,1
+642,ACTIVITY_low_pfr,1
 642,GENDER_F,1
 642,COUNTRY_Mali,1
 642,loan_buck_9,1
@@ -2688,7 +2688,7 @@
 655,COUNTRY_Rwanda,1
 655,loan_buck_9,1
 655,pfr_buck_0,1
-656,ACTIVITY_Farming,1
+656,ACTIVITY_low_pfr,1
 656,GENDER_M,1
 656,COUNTRY_low_pfr,1
 656,loan_buck_0,1
@@ -2823,12 +2823,12 @@
 684,COUNTRY_Madagascar,1
 684,loan_buck_2,1
 684,pfr_buck_2,1
-685,ACTIVITY_Farming,1
+685,ACTIVITY_low_pfr,1
 685,GENDER_M,1
 685,COUNTRY_Rwanda,1
 685,loan_buck_9,1
 685,pfr_buck_2,1
-686,ACTIVITY_Services,1
+686,ACTIVITY_low_pfr,1
 686,GENDER_F,1
 686,COUNTRY_Kenya,1
 686,loan_buck_0,1
@@ -2843,7 +2843,7 @@
 689,COUNTRY_Pakistan,1
 689,loan_buck_1,1
 689,pfr_buck_0,1
-690,ACTIVITY_Farming,1
+690,ACTIVITY_low_pfr,1
 690,GENDER_F,1
 690,COUNTRY_low_pfr,1
 690,loan_buck_6,1
@@ -2888,7 +2888,7 @@
 701,COUNTRY_Cambodia,1
 701,loan_buck_4,1
 701,pfr_buck_2,1
-702,ACTIVITY_Hotel,1
+702,ACTIVITY_low_pfr,1
 702,GENDER_F,1
 702,COUNTRY_Kenya,1
 702,loan_buck_1,1
@@ -2918,7 +2918,7 @@
 708,COUNTRY_Congo,1
 708,loan_buck_3,1
 708,pfr_buck_3,1
-709,ACTIVITY_Rickshaw,1
+709,ACTIVITY_low_pfr,1
 709,GENDER_M,1
 709,COUNTRY_Palestine,1
 709,loan_buck_6,1
@@ -2958,7 +2958,7 @@
 718,COUNTRY_Kosovo,1
 718,loan_buck_7,1
 718,pfr_buck_1,1
-719,ACTIVITY_Transportation,1
+719,ACTIVITY_low_pfr,1
 719,GENDER_F,1
 719,COUNTRY_Mozambique,1
 719,loan_buck_9,1
@@ -2973,12 +2973,12 @@
 723,COUNTRY_El,1
 723,loan_buck_3,1
 723,pfr_buck_1,1
-724,ACTIVITY_Farming,1
+724,ACTIVITY_low_pfr,1
 724,GENDER_M,1
 724,COUNTRY_Peru,1
 724,loan_buck_4,1
 724,pfr_buck_2,1
-725,ACTIVITY_Services,1
+725,ACTIVITY_low_pfr,1
 725,GENDER_F,1
 725,COUNTRY_Lebanon,1
 725,loan_buck_6,1
@@ -2993,7 +2993,7 @@
 727,COUNTRY_Cambodia,1
 727,loan_buck_6,1
 727,pfr_buck_3,1
-728,ACTIVITY_Transportation,1
+728,ACTIVITY_low_pfr,1
 728,GENDER_F,1
 728,COUNTRY_Pakistan,1
 728,loan_buck_1,1
@@ -3018,7 +3018,7 @@
 732,COUNTRY_Colombia,1
 732,loan_buck_4,1
 732,pfr_buck_1,1
-735,ACTIVITY_Farming,1
+735,ACTIVITY_low_pfr,1
 735,GENDER_F,1
 735,COUNTRY_Samoa,1
 735,loan_buck_3,1
@@ -3028,12 +3028,12 @@
 737,COUNTRY_Peru,1
 737,loan_buck_4,1
 737,pfr_buck_1,1
-738,ACTIVITY_Transportation,1
+738,ACTIVITY_low_pfr,1
 738,GENDER_F,1
 738,COUNTRY_Cambodia,1
 738,loan_buck_4,1
 738,pfr_buck_1,1
-740,ACTIVITY_Farming,1
+740,ACTIVITY_low_pfr,1
 740,GENDER_M,1
 740,COUNTRY_Honduras,1
 740,loan_buck_4,1
@@ -3118,7 +3118,7 @@
 760,COUNTRY_low_pfr,1
 760,loan_buck_6,1
 760,pfr_buck_3,1
-761,ACTIVITY_Farming,1
+761,ACTIVITY_low_pfr,1
 761,GENDER_M,1
 761,COUNTRY_Kenya,1
 761,loan_buck_2,1
@@ -3203,7 +3203,7 @@
 782,COUNTRY_Jordan,1
 782,loan_buck_4,1
 782,pfr_buck_2,1
-783,ACTIVITY_Farming,1
+783,ACTIVITY_low_pfr,1
 783,GENDER_F,1
 783,COUNTRY_Samoa,1
 783,loan_buck_4,1
@@ -3223,7 +3223,7 @@
 788,COUNTRY_Pakistan,1
 788,loan_buck_1,1
 788,pfr_buck_3,1
-789,ACTIVITY_Rickshaw,1
+789,ACTIVITY_low_pfr,1
 789,GENDER_F,1
 789,COUNTRY_Pakistan,1
 789,loan_buck_0,1
@@ -3278,7 +3278,7 @@
 800,COUNTRY_El,1
 800,loan_buck_1,1
 800,pfr_buck_1,1
-801,ACTIVITY_Transportation,1
+801,ACTIVITY_low_pfr,1
 801,GENDER_F,1
 801,COUNTRY_Philippines,1
 801,loan_buck_2,1
@@ -3308,7 +3308,7 @@
 807,COUNTRY_El,1
 807,loan_buck_1,1
 807,pfr_buck_1,1
-808,ACTIVITY_Farming,1
+808,ACTIVITY_low_pfr,1
 808,GENDER_F,1
 808,COUNTRY_Bolivia,1
 808,loan_buck_7,1
@@ -3398,7 +3398,7 @@
 826,COUNTRY_Nicaragua,1
 826,loan_buck_3,1
 826,pfr_buck_1,1
-827,ACTIVITY_Services,1
+827,ACTIVITY_low_pfr,1
 827,GENDER_M,1
 827,COUNTRY_Palestine,1
 827,loan_buck_7,1
@@ -3433,7 +3433,7 @@
 834,COUNTRY_Bolivia,1
 834,loan_buck_9,1
 834,pfr_buck_1,1
-835,ACTIVITY_Farming,1
+835,ACTIVITY_low_pfr,1
 835,GENDER_F,1
 835,COUNTRY_low_pfr,1
 835,loan_buck_4,1
@@ -3453,7 +3453,7 @@
 838,COUNTRY_Honduras,1
 838,loan_buck_6,1
 838,pfr_buck_2,1
-839,ACTIVITY_Farming,1
+839,ACTIVITY_low_pfr,1
 839,GENDER_M,1
 839,COUNTRY_low_pfr,1
 839,loan_buck_7,1
@@ -3513,7 +3513,7 @@
 854,COUNTRY_Ghana,1
 854,loan_buck_7,1
 854,pfr_buck_2,1
-855,ACTIVITY_Services,1
+855,ACTIVITY_low_pfr,1
 855,GENDER_M,1
 855,COUNTRY_Bolivia,1
 855,loan_buck_4,1
@@ -3678,7 +3678,7 @@
 899,COUNTRY_Philippines,1
 899,loan_buck_0,1
 899,pfr_buck_3,1
-900,ACTIVITY_Hardware,1
+900,ACTIVITY_low_pfr,1
 900,GENDER_F,1
 900,COUNTRY_Liberia,1
 900,loan_buck_0,1
@@ -3723,7 +3723,7 @@
 908,COUNTRY_Peru,1
 908,loan_buck_7,1
 908,pfr_buck_3,1
-909,ACTIVITY_Farming,1
+909,ACTIVITY_low_pfr,1
 909,GENDER_M,1
 909,COUNTRY_Paraguay,1
 909,loan_buck_4,1
@@ -3818,7 +3818,7 @@
 934,COUNTRY_Guatemala,1
 934,loan_buck_9,1
 934,pfr_buck_1,1
-935,ACTIVITY_Farming,1
+935,ACTIVITY_low_pfr,1
 935,GENDER_M,1
 935,COUNTRY_low_pfr,1
 935,loan_buck_6,1
@@ -3858,7 +3858,7 @@
 942,COUNTRY_Congo,1
 942,loan_buck_2,1
 942,pfr_buck_1,1
-943,ACTIVITY_Cafe,1
+943,ACTIVITY_low_pfr,1
 943,GENDER_M,1
 943,COUNTRY_Palestine,1
 943,loan_buck_4,1
@@ -3893,7 +3893,7 @@
 950,COUNTRY_Zimbabwe,1
 950,loan_buck_5,1
 950,pfr_buck_2,1
-951,ACTIVITY_Farming,1
+951,ACTIVITY_low_pfr,1
 951,GENDER_F,1
 951,COUNTRY_Kyrgyzstan,1
 951,loan_buck_6,1
@@ -3908,7 +3908,7 @@
 953,COUNTRY_Cameroon,1
 953,loan_buck_1,1
 953,pfr_buck_3,1
-954,ACTIVITY_Farming,1
+954,ACTIVITY_low_pfr,1
 954,GENDER_F,1
 954,COUNTRY_Kenya,1
 954,loan_buck_1,1
@@ -3918,7 +3918,7 @@
 955,COUNTRY_Egypt,1
 955,loan_buck_2,1
 955,pfr_buck_2,1
-956,ACTIVITY_Farming,1
+956,ACTIVITY_low_pfr,1
 956,GENDER_F,1
 956,COUNTRY_Senegal,1
 956,loan_buck_7,1
@@ -4018,7 +4018,7 @@
 978,COUNTRY_Pakistan,1
 978,loan_buck_1,1
 978,pfr_buck_1,1
-979,ACTIVITY_Farming,1
+979,ACTIVITY_low_pfr,1
 979,GENDER_M,1
 979,COUNTRY_low_pfr,1
 979,loan_buck_0,1
@@ -4033,7 +4033,7 @@
 981,COUNTRY_low_pfr,1
 981,loan_buck_1,1
 981,pfr_buck_2,1
-982,ACTIVITY_Farming,1
+982,ACTIVITY_low_pfr,1
 982,GENDER_F,1
 982,COUNTRY_El,1
 982,loan_buck_2,1
@@ -4058,7 +4058,7 @@
 988,COUNTRY_Ecuador,1
 988,loan_buck_4,1
 988,pfr_buck_1,1
-990,ACTIVITY_Farming,1
+990,ACTIVITY_low_pfr,1
 990,GENDER_M,1
 990,COUNTRY_Uganda,1
 990,loan_buck_3,1
@@ -4178,7 +4178,7 @@
 1020,COUNTRY_Ecuador,1
 1020,loan_buck_7,1
 1020,pfr_buck_2,1
-1021,ACTIVITY_Rickshaw,1
+1021,ACTIVITY_low_pfr,1
 1021,GENDER_F,1
 1021,COUNTRY_Pakistan,1
 1021,loan_buck_0,1
@@ -4258,7 +4258,7 @@
 1039,COUNTRY_Kyrgyzstan,1
 1039,loan_buck_2,1
 1039,pfr_buck_2,1
-1042,ACTIVITY_Farming,1
+1042,ACTIVITY_low_pfr,1
 1042,GENDER_M,1
 1042,COUNTRY_El,1
 1042,loan_buck_0,1
@@ -4273,7 +4273,7 @@
 1044,COUNTRY_Philippines,1
 1044,loan_buck_0,1
 1044,pfr_buck_3,1
-1045,ACTIVITY_Farming,1
+1045,ACTIVITY_low_pfr,1
 1045,GENDER_F,1
 1045,COUNTRY_Ecuador,1
 1045,loan_buck_4,1
@@ -4298,12 +4298,12 @@
 1052,COUNTRY_Colombia,1
 1052,loan_buck_2,1
 1052,pfr_buck_1,1
-1053,ACTIVITY_Services,1
+1053,ACTIVITY_low_pfr,1
 1053,GENDER_M,1
 1053,COUNTRY_Colombia,1
 1053,loan_buck_1,1
 1053,pfr_buck_1,1
-1054,ACTIVITY_Hardware,1
+1054,ACTIVITY_low_pfr,1
 1054,GENDER_F,1
 1054,COUNTRY_Colombia,1
 1054,loan_buck_1,1
@@ -4328,7 +4328,7 @@
 1058,COUNTRY_Congo,1
 1058,loan_buck_7,1
 1058,pfr_buck_2,1
-1060,ACTIVITY_Transportation,1
+1060,ACTIVITY_low_pfr,1
 1060,GENDER_M,1
 1060,COUNTRY_El,1
 1060,loan_buck_3,1
@@ -4348,7 +4348,7 @@
 1064,COUNTRY_Lebanon,1
 1064,loan_buck_5,1
 1064,pfr_buck_3,1
-1065,ACTIVITY_Services,1
+1065,ACTIVITY_low_pfr,1
 1065,GENDER_F,1
 1065,COUNTRY_Congo,1
 1065,loan_buck_9,1
@@ -4398,7 +4398,7 @@
 1074,COUNTRY_Paraguay,1
 1074,loan_buck_8,1
 1074,pfr_buck_1,1
-1075,ACTIVITY_Farming,1
+1075,ACTIVITY_low_pfr,1
 1075,GENDER_F,1
 1075,COUNTRY_Guatemala,1
 1075,loan_buck_8,1
@@ -4413,17 +4413,17 @@
 1077,COUNTRY_Ghana,1
 1077,loan_buck_4,1
 1077,pfr_buck_2,1
-1078,ACTIVITY_Services,1
+1078,ACTIVITY_low_pfr,1
 1078,GENDER_F,1
 1078,COUNTRY_Cameroon,1
 1078,loan_buck_1,1
 1078,pfr_buck_2,1
-1079,ACTIVITY_Farming,1
+1079,ACTIVITY_low_pfr,1
 1079,GENDER_M,1
 1079,COUNTRY_Myanmar,1
 1079,loan_buck_5,1
 1079,pfr_buck_1,1
-1081,ACTIVITY_Farming,1
+1081,ACTIVITY_low_pfr,1
 1081,GENDER_F,1
 1081,COUNTRY_Myanmar,1
 1081,loan_buck_5,1
@@ -4443,7 +4443,7 @@
 1085,COUNTRY_Brazil,1
 1085,loan_buck_8,1
 1085,pfr_buck_2,1
-1086,ACTIVITY_Farming,1
+1086,ACTIVITY_low_pfr,1
 1086,GENDER_F,1
 1086,COUNTRY_Vietnam,1
 1086,loan_buck_6,1
@@ -4478,12 +4478,12 @@
 1094,COUNTRY_Togo,1
 1094,loan_buck_1,1
 1094,pfr_buck_1,1
-1095,ACTIVITY_Farming,1
+1095,ACTIVITY_low_pfr,1
 1095,GENDER_F,1
 1095,COUNTRY_Cambodia,1
 1095,loan_buck_5,1
 1095,pfr_buck_0,1
-1096,ACTIVITY_Farming,1
+1096,ACTIVITY_low_pfr,1
 1096,GENDER_M,1
 1096,COUNTRY_Nicaragua,1
 1096,loan_buck_3,1
@@ -4528,7 +4528,7 @@
 1107,COUNTRY_Nicaragua,1
 1107,loan_buck_5,1
 1107,pfr_buck_1,1
-1108,ACTIVITY_Farming,1
+1108,ACTIVITY_low_pfr,1
 1108,GENDER_F,1
 1108,COUNTRY_low_pfr,1
 1108,loan_buck_7,1
@@ -4548,17 +4548,17 @@
 1112,COUNTRY_Lebanon,1
 1112,loan_buck_6,1
 1112,pfr_buck_0,1
-1113,ACTIVITY_Cafe,1
+1113,ACTIVITY_low_pfr,1
 1113,GENDER_F,1
 1113,COUNTRY_Kenya,1
 1113,loan_buck_0,1
 1113,pfr_buck_1,1
-1114,ACTIVITY_Services,1
+1114,ACTIVITY_low_pfr,1
 1114,GENDER_F,1
 1114,COUNTRY_Colombia,1
 1114,loan_buck_2,1
 1114,pfr_buck_2,1
-1115,ACTIVITY_Cafe,1
+1115,ACTIVITY_low_pfr,1
 1115,GENDER_F,1
 1115,COUNTRY_low_pfr,1
 1115,loan_buck_9,1
@@ -4663,7 +4663,7 @@
 1143,COUNTRY_low_pfr,1
 1143,loan_buck_2,1
 1143,pfr_buck_3,1
-1144,ACTIVITY_Cafe,1
+1144,ACTIVITY_low_pfr,1
 1144,GENDER_M,1
 1144,COUNTRY_Jordan,1
 1144,loan_buck_6,1
@@ -4848,7 +4848,7 @@
 1187,COUNTRY_Ecuador,1
 1187,loan_buck_6,1
 1187,pfr_buck_0,1
-1188,ACTIVITY_Farming,1
+1188,ACTIVITY_low_pfr,1
 1188,GENDER_F,1
 1188,COUNTRY_Armenia,1
 1188,loan_buck_6,1
@@ -4873,7 +4873,7 @@
 1193,COUNTRY_El,1
 1193,loan_buck_1,1
 1193,pfr_buck_3,1
-1194,ACTIVITY_Farming,1
+1194,ACTIVITY_low_pfr,1
 1194,GENDER_M,1
 1194,COUNTRY_Peru,1
 1194,loan_buck_5,1
@@ -4913,12 +4913,12 @@
 1202,COUNTRY_Lebanon,1
 1202,loan_buck_7,1
 1202,pfr_buck_1,1
-1203,ACTIVITY_Farming,1
+1203,ACTIVITY_low_pfr,1
 1203,GENDER_F,1
 1203,COUNTRY_low_pfr,1
 1203,loan_buck_8,1
 1203,pfr_buck_3,1
-1204,ACTIVITY_Transportation,1
+1204,ACTIVITY_low_pfr,1
 1204,GENDER_M,1
 1204,COUNTRY_Peru,1
 1204,loan_buck_3,1
@@ -4983,7 +4983,7 @@
 1220,COUNTRY_Tajikistan,1
 1220,loan_buck_2,1
 1220,pfr_buck_3,1
-1222,ACTIVITY_Transportation,1
+1222,ACTIVITY_low_pfr,1
 1222,GENDER_M,1
 1222,COUNTRY_Lebanon,1
 1222,loan_buck_7,1
@@ -5008,7 +5008,7 @@
 1226,COUNTRY_Senegal,1
 1226,loan_buck_8,1
 1226,pfr_buck_3,1
-1228,ACTIVITY_Farming,1
+1228,ACTIVITY_low_pfr,1
 1228,GENDER_F,1
 1228,COUNTRY_Sierra,1
 1228,loan_buck_9,1
@@ -5018,7 +5018,7 @@
 1229,COUNTRY_Sierra,1
 1229,loan_buck_1,1
 1229,pfr_buck_1,1
-1231,ACTIVITY_Services,1
+1231,ACTIVITY_low_pfr,1
 1231,GENDER_M,1
 1231,COUNTRY_Kenya,1
 1231,loan_buck_1,1
@@ -5133,7 +5133,7 @@
 1264,COUNTRY_Congo,1
 1264,loan_buck_6,1
 1264,pfr_buck_3,1
-1265,ACTIVITY_Taxi,1
+1265,ACTIVITY_low_pfr,1
 1265,GENDER_M,1
 1265,COUNTRY_Paraguay,1
 1265,loan_buck_5,1
@@ -5208,7 +5208,7 @@
 1288,COUNTRY_Guatemala,1
 1288,loan_buck_7,1
 1288,pfr_buck_3,1
-1290,ACTIVITY_Farming,1
+1290,ACTIVITY_low_pfr,1
 1290,GENDER_F,1
 1290,COUNTRY_Burkina,1
 1290,loan_buck_6,1
@@ -5233,7 +5233,7 @@
 1296,COUNTRY_Rwanda,1
 1296,loan_buck_8,1
 1296,pfr_buck_2,1
-1297,ACTIVITY_Farming,1
+1297,ACTIVITY_low_pfr,1
 1297,GENDER_M,1
 1297,COUNTRY_Senegal,1
 1297,loan_buck_1,1
@@ -5283,7 +5283,7 @@
 1312,COUNTRY_Lebanon,1
 1312,loan_buck_7,1
 1312,pfr_buck_2,1
-1313,ACTIVITY_Utilities,1
+1313,ACTIVITY_low_pfr,1
 1313,GENDER_M,1
 1313,COUNTRY_El,1
 1313,loan_buck_5,1
@@ -5303,7 +5303,7 @@
 1318,COUNTRY_Tajikistan,1
 1318,loan_buck_4,1
 1318,pfr_buck_1,1
-1319,ACTIVITY_Farming,1
+1319,ACTIVITY_low_pfr,1
 1319,GENDER_M,1
 1319,COUNTRY_Mozambique,1
 1319,loan_buck_8,1
@@ -5353,7 +5353,7 @@
 1330,COUNTRY_Cameroon,1
 1330,loan_buck_0,1
 1330,pfr_buck_0,1
-1332,ACTIVITY_Electrician,1
+1332,ACTIVITY_low_pfr,1
 1332,GENDER_M,1
 1332,COUNTRY_Palestine,1
 1332,loan_buck_5,1
@@ -5538,7 +5538,7 @@
 1384,COUNTRY_Tanzania,1
 1384,loan_buck_3,1
 1384,pfr_buck_2,1
-1385,ACTIVITY_Farming,1
+1385,ACTIVITY_low_pfr,1
 1385,GENDER_F,1
 1385,COUNTRY_Bolivia,1
 1385,loan_buck_8,1
@@ -5598,7 +5598,7 @@
 1399,COUNTRY_Peru,1
 1399,loan_buck_7,1
 1399,pfr_buck_3,1
-1401,ACTIVITY_Catering,1
+1401,ACTIVITY_low_pfr,1
 1401,GENDER_F,1
 1401,COUNTRY_Nicaragua,1
 1401,loan_buck_7,1
@@ -5633,12 +5633,12 @@
 1407,COUNTRY_Haiti,1
 1407,loan_buck_8,1
 1407,pfr_buck_2,1
-1409,ACTIVITY_Services,1
+1409,ACTIVITY_low_pfr,1
 1409,GENDER_M,1
 1409,COUNTRY_United,1
 1409,loan_buck_9,1
 1409,pfr_buck_1,1
-1410,ACTIVITY_Transportation,1
+1410,ACTIVITY_low_pfr,1
 1410,GENDER_M,1
 1410,COUNTRY_Colombia,1
 1410,loan_buck_3,1
@@ -5663,7 +5663,7 @@
 1416,COUNTRY_Togo,1
 1416,loan_buck_0,1
 1416,pfr_buck_3,1
-1417,ACTIVITY_Entertainment,1
+1417,ACTIVITY_low_pfr,1
 1417,GENDER_M,1
 1417,COUNTRY_Kenya,1
 1417,loan_buck_1,1
@@ -5688,12 +5688,12 @@
 1421,COUNTRY_United,1
 1421,loan_buck_9,1
 1421,pfr_buck_0,1
-1425,ACTIVITY_Entertainment,1
+1425,ACTIVITY_low_pfr,1
 1425,GENDER_F,1
 1425,COUNTRY_Vietnam,1
 1425,loan_buck_6,1
 1425,pfr_buck_2,1
-1429,ACTIVITY_Farming,1
+1429,ACTIVITY_low_pfr,1
 1429,GENDER_M,1
 1429,COUNTRY_low_pfr,1
 1429,loan_buck_7,1
@@ -5708,7 +5708,7 @@
 1435,COUNTRY_Senegal,1
 1435,loan_buck_8,1
 1435,pfr_buck_1,1
-1436,ACTIVITY_Taxi,1
+1436,ACTIVITY_low_pfr,1
 1436,GENDER_M,1
 1436,COUNTRY_low_pfr,1
 1436,loan_buck_6,1
@@ -5778,17 +5778,17 @@
 1451,COUNTRY_Colombia,1
 1451,loan_buck_2,1
 1451,pfr_buck_0,1
-1452,ACTIVITY_Cafe,1
+1452,ACTIVITY_low_pfr,1
 1452,GENDER_F,1
 1452,COUNTRY_Samoa,1
 1452,loan_buck_4,1
 1452,pfr_buck_1,1
-1453,ACTIVITY_Farming,1
+1453,ACTIVITY_low_pfr,1
 1453,GENDER_F,1
 1453,COUNTRY_Peru,1
 1453,loan_buck_6,1
 1453,pfr_buck_2,1
-1454,ACTIVITY_Cobbler,1
+1454,ACTIVITY_low_pfr,1
 1454,GENDER_F,1
 1454,COUNTRY_Colombia,1
 1454,loan_buck_3,1
@@ -5838,7 +5838,7 @@
 1471,COUNTRY_Ecuador,1
 1471,loan_buck_6,1
 1471,pfr_buck_1,1
-1472,ACTIVITY_Services,1
+1472,ACTIVITY_low_pfr,1
 1472,GENDER_F,1
 1472,COUNTRY_El,1
 1472,loan_buck_4,1
@@ -5878,7 +5878,7 @@
 1480,COUNTRY_Malawi,1
 1480,loan_buck_8,1
 1480,pfr_buck_2,1
-1482,ACTIVITY_Farming,1
+1482,ACTIVITY_low_pfr,1
 1482,GENDER_F,1
 1482,COUNTRY_Kenya,1
 1482,loan_buck_1,1
@@ -5898,7 +5898,7 @@
 1486,COUNTRY_Kenya,1
 1486,loan_buck_1,1
 1486,pfr_buck_2,1
-1487,ACTIVITY_Transportation,1
+1487,ACTIVITY_low_pfr,1
 1487,GENDER_M,1
 1487,COUNTRY_Bolivia,1
 1487,loan_buck_3,1
@@ -5928,7 +5928,7 @@
 1492,COUNTRY_low_pfr,1
 1492,loan_buck_2,1
 1492,pfr_buck_3,1
-1493,ACTIVITY_Farming,1
+1493,ACTIVITY_low_pfr,1
 1493,GENDER_F,1
 1493,COUNTRY_Honduras,1
 1493,loan_buck_7,1
@@ -5968,7 +5968,7 @@
 1503,COUNTRY_Cameroon,1
 1503,loan_buck_2,1
 1503,pfr_buck_2,1
-1505,ACTIVITY_Farming,1
+1505,ACTIVITY_low_pfr,1
 1505,GENDER_F,1
 1505,COUNTRY_Palestine,1
 1505,loan_buck_8,1
@@ -6043,7 +6043,7 @@
 1527,COUNTRY_low_pfr,1
 1527,loan_buck_0,1
 1527,pfr_buck_2,1
-1528,ACTIVITY_Farming,1
+1528,ACTIVITY_low_pfr,1
 1528,GENDER_F,1
 1528,COUNTRY_Vietnam,1
 1528,loan_buck_6,1
@@ -6098,12 +6098,12 @@
 1540,COUNTRY_low_pfr,1
 1540,loan_buck_6,1
 1540,pfr_buck_1,1
-1542,ACTIVITY_Farming,1
+1542,ACTIVITY_low_pfr,1
 1542,GENDER_M,1
 1542,COUNTRY_Haiti,1
 1542,loan_buck_3,1
 1542,pfr_buck_3,1
-1543,ACTIVITY_Farming,1
+1543,ACTIVITY_low_pfr,1
 1543,GENDER_F,1
 1543,COUNTRY_Myanmar,1
 1543,loan_buck_5,1
@@ -6198,7 +6198,7 @@
 1564,COUNTRY_Liberia,1
 1564,loan_buck_0,1
 1564,pfr_buck_0,1
-1565,ACTIVITY_Farming,1
+1565,ACTIVITY_low_pfr,1
 1565,GENDER_M,1
 1565,COUNTRY_Ecuador,1
 1565,loan_buck_4,1
@@ -6253,7 +6253,7 @@
 1578,COUNTRY_Rwanda,1
 1578,loan_buck_9,1
 1578,pfr_buck_0,1
-1580,ACTIVITY_Services,1
+1580,ACTIVITY_low_pfr,1
 1580,GENDER_F,1
 1580,COUNTRY_United,1
 1580,loan_buck_9,1
@@ -6263,7 +6263,7 @@
 1581,COUNTRY_Mali,1
 1581,loan_buck_8,1
 1581,pfr_buck_3,1
-1582,ACTIVITY_Farming,1
+1582,ACTIVITY_low_pfr,1
 1582,GENDER_M,1
 1582,COUNTRY_Armenia,1
 1582,loan_buck_6,1
@@ -6283,7 +6283,7 @@
 1586,COUNTRY_Tajikistan,1
 1586,loan_buck_2,1
 1586,pfr_buck_0,1
-1589,ACTIVITY_Farming,1
+1589,ACTIVITY_low_pfr,1
 1589,GENDER_F,1
 1589,COUNTRY_low_pfr,1
 1589,loan_buck_0,1
@@ -6378,7 +6378,7 @@
 1614,COUNTRY_Mozambique,1
 1614,loan_buck_2,1
 1614,pfr_buck_0,1
-1615,ACTIVITY_Hardware,1
+1615,ACTIVITY_low_pfr,1
 1615,GENDER_F,1
 1615,COUNTRY_Madagascar,1
 1615,loan_buck_2,1
@@ -6433,7 +6433,7 @@
 1627,COUNTRY_Togo,1
 1627,loan_buck_2,1
 1627,pfr_buck_3,1
-1629,ACTIVITY_Transportation,1
+1629,ACTIVITY_low_pfr,1
 1629,GENDER_M,1
 1629,COUNTRY_Ecuador,1
 1629,loan_buck_4,1
@@ -6468,7 +6468,7 @@
 1637,COUNTRY_Nicaragua,1
 1637,loan_buck_5,1
 1637,pfr_buck_0,1
-1638,ACTIVITY_Farming,1
+1638,ACTIVITY_low_pfr,1
 1638,GENDER_M,1
 1638,COUNTRY_Cambodia,1
 1638,loan_buck_4,1
@@ -6478,7 +6478,7 @@
 1639,COUNTRY_Cambodia,1
 1639,loan_buck_5,1
 1639,pfr_buck_3,1
-1640,ACTIVITY_Farming,1
+1640,ACTIVITY_low_pfr,1
 1640,GENDER_F,1
 1640,COUNTRY_Armenia,1
 1640,loan_buck_6,1
@@ -6498,7 +6498,7 @@
 1644,COUNTRY_Nicaragua,1
 1644,loan_buck_3,1
 1644,pfr_buck_3,1
-1645,ACTIVITY_Farming,1
+1645,ACTIVITY_low_pfr,1
 1645,GENDER_F,1
 1645,COUNTRY_Colombia,1
 1645,loan_buck_3,1
@@ -6518,7 +6518,7 @@
 1649,COUNTRY_Guatemala,1
 1649,loan_buck_7,1
 1649,pfr_buck_0,1
-1651,ACTIVITY_Aquaculture,1
+1651,ACTIVITY_low_pfr,1
 1651,GENDER_F,1
 1651,COUNTRY_Vietnam,1
 1651,loan_buck_4,1
@@ -6568,7 +6568,7 @@
 1661,COUNTRY_Lebanon,1
 1661,loan_buck_7,1
 1661,pfr_buck_1,1
-1662,ACTIVITY_Farming,1
+1662,ACTIVITY_low_pfr,1
 1662,GENDER_F,1
 1662,COUNTRY_Nicaragua,1
 1662,loan_buck_6,1
@@ -6593,7 +6593,7 @@
 1667,COUNTRY_Uganda,1
 1667,loan_buck_2,1
 1667,pfr_buck_0,1
-1668,ACTIVITY_Cobbler,1
+1668,ACTIVITY_low_pfr,1
 1668,GENDER_M,1
 1668,COUNTRY_Kenya,1
 1668,loan_buck_2,1
@@ -6603,7 +6603,7 @@
 1669,COUNTRY_Mozambique,1
 1669,loan_buck_3,1
 1669,pfr_buck_1,1
-1670,ACTIVITY_Farming,1
+1670,ACTIVITY_low_pfr,1
 1670,GENDER_F,1
 1670,COUNTRY_Cambodia,1
 1670,loan_buck_5,1
@@ -6698,7 +6698,7 @@
 1691,COUNTRY_Sierra,1
 1691,loan_buck_0,1
 1691,pfr_buck_0,1
-1695,ACTIVITY_Farming,1
+1695,ACTIVITY_low_pfr,1
 1695,GENDER_F,1
 1695,COUNTRY_Tanzania,1
 1695,loan_buck_3,1
@@ -6753,7 +6753,7 @@
 1711,COUNTRY_Sierra,1
 1711,loan_buck_0,1
 1711,pfr_buck_0,1
-1712,ACTIVITY_Farming,1
+1712,ACTIVITY_low_pfr,1
 1712,GENDER_M,1
 1712,COUNTRY_low_pfr,1
 1712,loan_buck_0,1
@@ -6778,7 +6778,7 @@
 1716,COUNTRY_Mozambique,1
 1716,loan_buck_2,1
 1716,pfr_buck_1,1
-1717,ACTIVITY_Taxi,1
+1717,ACTIVITY_low_pfr,1
 1717,GENDER_M,1
 1717,COUNTRY_Ecuador,1
 1717,loan_buck_6,1
@@ -6828,7 +6828,7 @@
 1728,COUNTRY_Paraguay,1
 1728,loan_buck_6,1
 1728,pfr_buck_1,1
-1729,ACTIVITY_Farming,1
+1729,ACTIVITY_low_pfr,1
 1729,GENDER_M,1
 1729,COUNTRY_Honduras,1
 1729,loan_buck_4,1
@@ -6838,7 +6838,7 @@
 1730,COUNTRY_Egypt,1
 1730,loan_buck_2,1
 1730,pfr_buck_1,1
-1732,ACTIVITY_Catering,1
+1732,ACTIVITY_low_pfr,1
 1732,GENDER_F,1
 1732,COUNTRY_Ecuador,1
 1732,loan_buck_4,1
@@ -6928,7 +6928,7 @@
 1754,COUNTRY_El,1
 1754,loan_buck_5,1
 1754,pfr_buck_1,1
-1755,ACTIVITY_Farming,1
+1755,ACTIVITY_low_pfr,1
 1755,GENDER_F,1
 1755,COUNTRY_Cambodia,1
 1755,loan_buck_4,1
@@ -7018,7 +7018,7 @@
 1779,COUNTRY_Cambodia,1
 1779,loan_buck_5,1
 1779,pfr_buck_1,1
-1780,ACTIVITY_Farming,1
+1780,ACTIVITY_low_pfr,1
 1780,GENDER_M,1
 1780,COUNTRY_Kosovo,1
 1780,loan_buck_4,1
@@ -7083,7 +7083,7 @@
 1796,COUNTRY_Mali,1
 1796,loan_buck_8,1
 1796,pfr_buck_0,1
-1797,ACTIVITY_Technology,1
+1797,ACTIVITY_low_pfr,1
 1797,GENDER_F,1
 1797,COUNTRY_United,1
 1797,loan_buck_9,1
@@ -7093,12 +7093,12 @@
 1798,COUNTRY_Haiti,1
 1798,loan_buck_2,1
 1798,pfr_buck_1,1
-1799,ACTIVITY_Farming,1
+1799,ACTIVITY_low_pfr,1
 1799,GENDER_F,1
 1799,COUNTRY_Honduras,1
 1799,loan_buck_2,1
 1799,pfr_buck_3,1
-1800,ACTIVITY_Services,1
+1800,ACTIVITY_low_pfr,1
 1800,GENDER_M,1
 1800,COUNTRY_Brazil,1
 1800,loan_buck_8,1
@@ -7138,7 +7138,7 @@
 1807,COUNTRY_Peru,1
 1807,loan_buck_8,1
 1807,pfr_buck_3,1
-1808,ACTIVITY_Farming,1
+1808,ACTIVITY_low_pfr,1
 1808,GENDER_F,1
 1808,COUNTRY_Myanmar,1
 1808,loan_buck_4,1
@@ -7163,7 +7163,7 @@
 1812,COUNTRY_Togo,1
 1812,loan_buck_3,1
 1812,pfr_buck_1,1
-1813,ACTIVITY_Transportation,1
+1813,ACTIVITY_low_pfr,1
 1813,GENDER_M,1
 1813,COUNTRY_Zimbabwe,1
 1813,loan_buck_8,1
@@ -7308,7 +7308,7 @@
 1857,COUNTRY_Kosovo,1
 1857,loan_buck_6,1
 1857,pfr_buck_0,1
-1859,ACTIVITY_Farming,1
+1859,ACTIVITY_low_pfr,1
 1859,GENDER_F,1
 1859,COUNTRY_Kenya,1
 1859,loan_buck_1,1
@@ -7368,7 +7368,7 @@
 1878,COUNTRY_Palestine,1
 1878,loan_buck_7,1
 1878,pfr_buck_0,1
-1879,ACTIVITY_Services,1
+1879,ACTIVITY_low_pfr,1
 1879,GENDER_M,1
 1879,COUNTRY_Egypt,1
 1879,loan_buck_1,1
@@ -7503,7 +7503,7 @@
 1916,COUNTRY_Burkina,1
 1916,loan_buck_4,1
 1916,pfr_buck_3,1
-1920,ACTIVITY_Farming,1
+1920,ACTIVITY_low_pfr,1
 1920,GENDER_M,1
 1920,COUNTRY_Uganda,1
 1920,loan_buck_3,1
@@ -7583,7 +7583,7 @@
 1946,COUNTRY_Ghana,1
 1946,loan_buck_6,1
 1946,pfr_buck_0,1
-1947,ACTIVITY_Farming,1
+1947,ACTIVITY_low_pfr,1
 1947,GENDER_F,1
 1947,COUNTRY_Kenya,1
 1947,loan_buck_0,1
@@ -7618,7 +7618,7 @@
 1955,COUNTRY_Lebanon,1
 1955,loan_buck_7,1
 1955,pfr_buck_3,1
-1956,ACTIVITY_Services,1
+1956,ACTIVITY_low_pfr,1
 1956,GENDER_M,1
 1956,COUNTRY_Ecuador,1
 1956,loan_buck_4,1
@@ -7678,7 +7678,7 @@
 1978,COUNTRY_Mali,1
 1978,loan_buck_8,1
 1978,pfr_buck_0,1
-1983,ACTIVITY_Farming,1
+1983,ACTIVITY_low_pfr,1
 1983,GENDER_F,1
 1983,COUNTRY_Zimbabwe,1
 1983,loan_buck_6,1
@@ -7753,7 +7753,7 @@
 2011,COUNTRY_Peru,1
 2011,loan_buck_4,1
 2011,pfr_buck_3,1
-2012,ACTIVITY_Taxi,1
+2012,ACTIVITY_low_pfr,1
 2012,GENDER_M,1
 2012,COUNTRY_Colombia,1
 2012,loan_buck_3,1
@@ -7788,7 +7788,7 @@
 2022,COUNTRY_Kyrgyzstan,1
 2022,loan_buck_3,1
 2022,pfr_buck_3,1
-2023,ACTIVITY_Services,1
+2023,ACTIVITY_low_pfr,1
 2023,GENDER_F,1
 2023,COUNTRY_Paraguay,1
 2023,loan_buck_8,1
@@ -7883,12 +7883,12 @@
 2050,COUNTRY_Kenya,1
 2050,loan_buck_1,1
 2050,pfr_buck_0,1
-2051,ACTIVITY_Entertainment,1
+2051,ACTIVITY_low_pfr,1
 2051,GENDER_M,1
 2051,COUNTRY_United,1
 2051,loan_buck_8,1
 2051,pfr_buck_1,1
-2053,ACTIVITY_Farming,1
+2053,ACTIVITY_low_pfr,1
 2053,GENDER_M,1
 2053,COUNTRY_Honduras,1
 2053,loan_buck_5,1
@@ -7918,7 +7918,7 @@
 2062,COUNTRY_Uganda,1
 2062,loan_buck_3,1
 2062,pfr_buck_3,1
-2064,ACTIVITY_Entertainment,1
+2064,ACTIVITY_low_pfr,1
 2064,GENDER_M,1
 2064,COUNTRY_Colombia,1
 2064,loan_buck_5,1
@@ -7933,7 +7933,7 @@
 2068,COUNTRY_Haiti,1
 2068,loan_buck_7,1
 2068,pfr_buck_2,1
-2069,ACTIVITY_Catering,1
+2069,ACTIVITY_low_pfr,1
 2069,GENDER_F,1
 2069,COUNTRY_Bolivia,1
 2069,loan_buck_5,1
@@ -7943,7 +7943,7 @@
 2070,COUNTRY_Kenya,1
 2070,loan_buck_0,1
 2070,pfr_buck_2,1
-2071,ACTIVITY_Aquaculture,1
+2071,ACTIVITY_low_pfr,1
 2071,GENDER_M,1
 2071,COUNTRY_Ecuador,1
 2071,loan_buck_6,1
@@ -7953,12 +7953,12 @@
 2074,COUNTRY_Lebanon,1
 2074,loan_buck_7,1
 2074,pfr_buck_1,1
-2076,ACTIVITY_Farming,1
+2076,ACTIVITY_low_pfr,1
 2076,GENDER_M,1
 2076,COUNTRY_Cameroon,1
 2076,loan_buck_0,1
 2076,pfr_buck_2,1
-2079,ACTIVITY_Farming,1
+2079,ACTIVITY_low_pfr,1
 2079,GENDER_F,1
 2079,COUNTRY_Tajikistan,1
 2079,loan_buck_3,1
@@ -7998,7 +7998,7 @@
 2092,COUNTRY_Senegal,1
 2092,loan_buck_9,1
 2092,pfr_buck_3,1
-2094,ACTIVITY_Communications,1
+2094,ACTIVITY_low_pfr,1
 2094,GENDER_M,1
 2094,COUNTRY_Bolivia,1
 2094,loan_buck_9,1
@@ -8028,12 +8028,12 @@
 2104,COUNTRY_Cameroon,1
 2104,loan_buck_3,1
 2104,pfr_buck_1,1
-2106,ACTIVITY_Cafe,1
+2106,ACTIVITY_low_pfr,1
 2106,GENDER_F,1
 2106,COUNTRY_Philippines,1
 2106,loan_buck_5,1
 2106,pfr_buck_3,1
-2107,ACTIVITY_Transportation,1
+2107,ACTIVITY_low_pfr,1
 2107,GENDER_M,1
 2107,COUNTRY_Tajikistan,1
 2107,loan_buck_1,1
@@ -8048,7 +8048,7 @@
 2109,COUNTRY_Malawi,1
 2109,loan_buck_7,1
 2109,pfr_buck_3,1
-2111,ACTIVITY_Cafe,1
+2111,ACTIVITY_low_pfr,1
 2111,GENDER_F,1
 2111,COUNTRY_Tajikistan,1
 2111,loan_buck_3,1
@@ -8103,7 +8103,7 @@
 2128,COUNTRY_Peru,1
 2128,loan_buck_5,1
 2128,pfr_buck_0,1
-2132,ACTIVITY_Farming,1
+2132,ACTIVITY_low_pfr,1
 2132,GENDER_M,1
 2132,COUNTRY_Palestine,1
 2132,loan_buck_7,1
@@ -8118,7 +8118,7 @@
 2136,COUNTRY_Uganda,1
 2136,loan_buck_0,1
 2136,pfr_buck_3,1
-2137,ACTIVITY_Farming,1
+2137,ACTIVITY_low_pfr,1
 2137,GENDER_M,1
 2137,COUNTRY_Peru,1
 2137,loan_buck_5,1
@@ -8138,7 +8138,7 @@
 2140,COUNTRY_Ecuador,1
 2140,loan_buck_1,1
 2140,pfr_buck_2,1
-2141,ACTIVITY_Taxi,1
+2141,ACTIVITY_low_pfr,1
 2141,GENDER_M,1
 2141,COUNTRY_Lebanon,1
 2141,loan_buck_7,1
@@ -8163,7 +8163,7 @@
 2149,COUNTRY_Guatemala,1
 2149,loan_buck_7,1
 2149,pfr_buck_3,1
-2150,ACTIVITY_Taxi,1
+2150,ACTIVITY_low_pfr,1
 2150,GENDER_F,1
 2150,COUNTRY_Tajikistan,1
 2150,loan_buck_2,1
@@ -8198,7 +8198,7 @@
 2162,COUNTRY_Philippines,1
 2162,loan_buck_2,1
 2162,pfr_buck_0,1
-2163,ACTIVITY_Services,1
+2163,ACTIVITY_low_pfr,1
 2163,GENDER_F,1
 2163,COUNTRY_Tajikistan,1
 2163,loan_buck_2,1
@@ -8313,12 +8313,12 @@
 2209,COUNTRY_Kosovo,1
 2209,loan_buck_6,1
 2209,pfr_buck_1,1
-2210,ACTIVITY_Farming,1
+2210,ACTIVITY_low_pfr,1
 2210,GENDER_F,1
 2210,COUNTRY_Ecuador,1
 2210,loan_buck_5,1
 2210,pfr_buck_0,1
-2214,ACTIVITY_Health,1
+2214,ACTIVITY_low_pfr,1
 2214,GENDER_M,1
 2214,COUNTRY_Tanzania,1
 2214,loan_buck_9,1
@@ -8368,7 +8368,7 @@
 2237,COUNTRY_Colombia,1
 2237,loan_buck_3,1
 2237,pfr_buck_1,1
-2238,ACTIVITY_Farming,1
+2238,ACTIVITY_low_pfr,1
 2238,GENDER_M,1
 2238,COUNTRY_Guatemala,1
 2238,loan_buck_7,1
@@ -8443,7 +8443,7 @@
 2261,COUNTRY_low_pfr,1
 2261,loan_buck_4,1
 2261,pfr_buck_3,1
-2263,ACTIVITY_Services,1
+2263,ACTIVITY_low_pfr,1
 2263,GENDER_M,1
 2263,COUNTRY_Jordan,1
 2263,loan_buck_3,1
@@ -8473,7 +8473,7 @@
 2271,COUNTRY_Liberia,1
 2271,loan_buck_1,1
 2271,pfr_buck_0,1
-2272,ACTIVITY_Farming,1
+2272,ACTIVITY_low_pfr,1
 2272,GENDER_F,1
 2272,COUNTRY_Rwanda,1
 2272,loan_buck_9,1
@@ -8488,12 +8488,12 @@
 2275,COUNTRY_Colombia,1
 2275,loan_buck_1,1
 2275,pfr_buck_0,1
-2276,ACTIVITY_Hardware,1
+2276,ACTIVITY_low_pfr,1
 2276,GENDER_F,1
 2276,COUNTRY_Palestine,1
 2276,loan_buck_7,1
 2276,pfr_buck_0,1
-2277,ACTIVITY_Pub,1
+2277,ACTIVITY_low_pfr,1
 2277,GENDER_F,1
 2277,COUNTRY_Uganda,1
 2277,loan_buck_4,1
@@ -8583,12 +8583,12 @@
 2296,COUNTRY_Lebanon,1
 2296,loan_buck_7,1
 2296,pfr_buck_1,1
-2297,ACTIVITY_Farming,1
+2297,ACTIVITY_low_pfr,1
 2297,GENDER_M,1
 2297,COUNTRY_Mali,1
 2297,loan_buck_8,1
 2297,pfr_buck_1,1
-2298,ACTIVITY_Taxi,1
+2298,ACTIVITY_low_pfr,1
 2298,GENDER_F,1
 2298,COUNTRY_Samoa,1
 2298,loan_buck_5,1
@@ -8613,7 +8613,7 @@
 2304,COUNTRY_Brazil,1
 2304,loan_buck_8,1
 2304,pfr_buck_1,1
-2305,ACTIVITY_Farming,1
+2305,ACTIVITY_low_pfr,1
 2305,GENDER_M,1
 2305,COUNTRY_low_pfr,1
 2305,loan_buck_5,1
@@ -8698,12 +8698,12 @@
 2324,COUNTRY_Jordan,1
 2324,loan_buck_5,1
 2324,pfr_buck_3,1
-2327,ACTIVITY_Farming,1
+2327,ACTIVITY_low_pfr,1
 2327,GENDER_M,1
 2327,COUNTRY_Burkina,1
 2327,loan_buck_3,1
 2327,pfr_buck_1,1
-2328,ACTIVITY_Services,1
+2328,ACTIVITY_low_pfr,1
 2328,GENDER_F,1
 2328,COUNTRY_Pakistan,1
 2328,loan_buck_1,1
@@ -8723,7 +8723,7 @@
 2331,COUNTRY_Pakistan,1
 2331,loan_buck_1,1
 2331,pfr_buck_2,1
-2332,ACTIVITY_Transportation,1
+2332,ACTIVITY_low_pfr,1
 2332,GENDER_F,1
 2332,COUNTRY_United,1
 2332,loan_buck_9,1
@@ -8768,7 +8768,7 @@
 2343,COUNTRY_Lebanon,1
 2343,loan_buck_7,1
 2343,pfr_buck_2,1
-2345,ACTIVITY_Farming,1
+2345,ACTIVITY_low_pfr,1
 2345,GENDER_M,1
 2345,COUNTRY_Ghana,1
 2345,loan_buck_2,1
@@ -8783,7 +8783,7 @@
 2347,COUNTRY_Togo,1
 2347,loan_buck_1,1
 2347,pfr_buck_0,1
-2348,ACTIVITY_Taxi,1
+2348,ACTIVITY_low_pfr,1
 2348,GENDER_F,1
 2348,COUNTRY_Pakistan,1
 2348,loan_buck_1,1
@@ -8808,7 +8808,7 @@
 2352,COUNTRY_Guatemala,1
 2352,loan_buck_8,1
 2352,pfr_buck_3,1
-2355,ACTIVITY_Farming,1
+2355,ACTIVITY_low_pfr,1
 2355,GENDER_F,1
 2355,COUNTRY_Sierra,1
 2355,loan_buck_8,1
@@ -8853,7 +8853,7 @@
 2364,COUNTRY_Myanmar,1
 2364,loan_buck_4,1
 2364,pfr_buck_1,1
-2365,ACTIVITY_Farming,1
+2365,ACTIVITY_low_pfr,1
 2365,GENDER_M,1
 2365,COUNTRY_El,1
 2365,loan_buck_0,1
@@ -8973,7 +8973,7 @@
 2397,COUNTRY_Pakistan,1
 2397,loan_buck_1,1
 2397,pfr_buck_3,1
-2398,ACTIVITY_Farming,1
+2398,ACTIVITY_low_pfr,1
 2398,GENDER_F,1
 2398,COUNTRY_Nicaragua,1
 2398,loan_buck_3,1
@@ -8983,7 +8983,7 @@
 2399,COUNTRY_Paraguay,1
 2399,loan_buck_8,1
 2399,pfr_buck_3,1
-2400,ACTIVITY_Farming,1
+2400,ACTIVITY_low_pfr,1
 2400,GENDER_M,1
 2400,COUNTRY_Colombia,1
 2400,loan_buck_1,1
@@ -9013,7 +9013,7 @@
 2406,COUNTRY_Togo,1
 2406,loan_buck_2,1
 2406,pfr_buck_1,1
-2407,ACTIVITY_Farming,1
+2407,ACTIVITY_low_pfr,1
 2407,GENDER_F,1
 2407,COUNTRY_Kenya,1
 2407,loan_buck_1,1
@@ -9138,12 +9138,12 @@
 2437,COUNTRY_Madagascar,1
 2437,loan_buck_2,1
 2437,pfr_buck_1,1
-2438,ACTIVITY_Farming,1
+2438,ACTIVITY_low_pfr,1
 2438,GENDER_F,1
 2438,COUNTRY_Armenia,1
 2438,loan_buck_7,1
 2438,pfr_buck_2,1
-2439,ACTIVITY_Services,1
+2439,ACTIVITY_low_pfr,1
 2439,GENDER_F,1
 2439,COUNTRY_Pakistan,1
 2439,loan_buck_1,1
@@ -9233,7 +9233,7 @@
 2462,COUNTRY_Lebanon,1
 2462,loan_buck_6,1
 2462,pfr_buck_3,1
-2463,ACTIVITY_Farming,1
+2463,ACTIVITY_low_pfr,1
 2463,GENDER_F,1
 2463,COUNTRY_Nicaragua,1
 2463,loan_buck_5,1
@@ -9278,7 +9278,7 @@
 2481,COUNTRY_Zimbabwe,1
 2481,loan_buck_4,1
 2481,pfr_buck_2,1
-2483,ACTIVITY_Farming,1
+2483,ACTIVITY_low_pfr,1
 2483,GENDER_M,1
 2483,COUNTRY_Haiti,1
 2483,loan_buck_7,1
@@ -9293,7 +9293,7 @@
 2485,COUNTRY_Bolivia,1
 2485,loan_buck_9,1
 2485,pfr_buck_0,1
-2486,ACTIVITY_Farming,1
+2486,ACTIVITY_low_pfr,1
 2486,GENDER_M,1
 2486,COUNTRY_Palestine,1
 2486,loan_buck_7,1
@@ -9338,7 +9338,7 @@
 2498,COUNTRY_United,1
 2498,loan_buck_8,1
 2498,pfr_buck_1,1
-2499,ACTIVITY_Farming,1
+2499,ACTIVITY_low_pfr,1
 2499,GENDER_F,1
 2499,COUNTRY_Cambodia,1
 2499,loan_buck_5,1
@@ -9388,7 +9388,7 @@
 2513,COUNTRY_Pakistan,1
 2513,loan_buck_0,1
 2513,pfr_buck_0,1
-2518,ACTIVITY_Entertainment,1
+2518,ACTIVITY_low_pfr,1
 2518,GENDER_M,1
 2518,COUNTRY_El,1
 2518,loan_buck_6,1
@@ -9438,7 +9438,7 @@
 2536,COUNTRY_Nicaragua,1
 2536,loan_buck_2,1
 2536,pfr_buck_2,1
-2543,ACTIVITY_Transportation,1
+2543,ACTIVITY_low_pfr,1
 2543,GENDER_F,1
 2543,COUNTRY_Bolivia,1
 2543,loan_buck_8,1
@@ -9453,7 +9453,7 @@
 2547,COUNTRY_Peru,1
 2547,loan_buck_9,1
 2547,pfr_buck_3,1
-2548,ACTIVITY_Taxi,1
+2548,ACTIVITY_low_pfr,1
 2548,GENDER_M,1
 2548,COUNTRY_El,1
 2548,loan_buck_4,1
@@ -9463,7 +9463,7 @@
 2554,COUNTRY_Jordan,1
 2554,loan_buck_6,1
 2554,pfr_buck_1,1
-2555,ACTIVITY_Taxi,1
+2555,ACTIVITY_low_pfr,1
 2555,GENDER_M,1
 2555,COUNTRY_Ghana,1
 2555,loan_buck_4,1
@@ -9483,7 +9483,7 @@
 2560,COUNTRY_Ecuador,1
 2560,loan_buck_6,1
 2560,pfr_buck_0,1
-2563,ACTIVITY_Health,1
+2563,ACTIVITY_low_pfr,1
 2563,GENDER_M,1
 2563,COUNTRY_low_pfr,1
 2563,loan_buck_7,1
@@ -9493,7 +9493,7 @@
 2568,COUNTRY_Madagascar,1
 2568,loan_buck_0,1
 2568,pfr_buck_2,1
-2571,ACTIVITY_Farming,1
+2571,ACTIVITY_low_pfr,1
 2571,GENDER_M,1
 2571,COUNTRY_Philippines,1
 2571,loan_buck_1,1
@@ -9503,7 +9503,7 @@
 2573,COUNTRY_Mali,1
 2573,loan_buck_8,1
 2573,pfr_buck_0,1
-2575,ACTIVITY_Pub,1
+2575,ACTIVITY_low_pfr,1
 2575,GENDER_M,1
 2575,COUNTRY_Rwanda,1
 2575,loan_buck_9,1
@@ -9558,7 +9558,7 @@
 2598,COUNTRY_Haiti,1
 2598,loan_buck_1,1
 2598,pfr_buck_1,1
-2600,ACTIVITY_Services,1
+2600,ACTIVITY_low_pfr,1
 2600,GENDER_M,1
 2600,COUNTRY_low_pfr,1
 2600,loan_buck_4,1
@@ -9578,7 +9578,7 @@
 2607,COUNTRY_Pakistan,1
 2607,loan_buck_3,1
 2607,pfr_buck_1,1
-2608,ACTIVITY_Taxi,1
+2608,ACTIVITY_low_pfr,1
 2608,GENDER_M,1
 2608,COUNTRY_Nicaragua,1
 2608,loan_buck_4,1
@@ -9683,7 +9683,7 @@
 2654,COUNTRY_Bolivia,1
 2654,loan_buck_8,1
 2654,pfr_buck_0,1
-2661,ACTIVITY_Communications,1
+2661,ACTIVITY_low_pfr,1
 2661,GENDER_M,1
 2661,COUNTRY_Kenya,1
 2661,loan_buck_5,1
@@ -9723,7 +9723,7 @@
 2675,COUNTRY_Armenia,1
 2675,loan_buck_2,1
 2675,pfr_buck_0,1
-2677,ACTIVITY_Cafe,1
+2677,ACTIVITY_low_pfr,1
 2677,GENDER_M,1
 2677,COUNTRY_Tajikistan,1
 2677,loan_buck_3,1
@@ -9748,7 +9748,7 @@
 2684,COUNTRY_Mozambique,1
 2684,loan_buck_2,1
 2684,pfr_buck_0,1
-2685,ACTIVITY_Hotel,1
+2685,ACTIVITY_low_pfr,1
 2685,GENDER_F,1
 2685,COUNTRY_Ecuador,1
 2685,loan_buck_4,1
@@ -9758,7 +9758,7 @@
 2687,COUNTRY_Tajikistan,1
 2687,loan_buck_5,1
 2687,pfr_buck_1,1
-2691,ACTIVITY_Entertainment,1
+2691,ACTIVITY_low_pfr,1
 2691,GENDER_M,1
 2691,COUNTRY_Palestine,1
 2691,loan_buck_6,1
@@ -9783,7 +9783,7 @@
 2698,COUNTRY_Cambodia,1
 2698,loan_buck_3,1
 2698,pfr_buck_0,1
-2702,ACTIVITY_Funerals,1
+2702,ACTIVITY_low_pfr,1
 2702,GENDER_F,1
 2702,COUNTRY_low_pfr,1
 2702,loan_buck_8,1
@@ -9818,7 +9818,7 @@
 2721,COUNTRY_Paraguay,1
 2721,loan_buck_3,1
 2721,pfr_buck_0,1
-2722,ACTIVITY_Farming,1
+2722,ACTIVITY_low_pfr,1
 2722,GENDER_M,1
 2722,COUNTRY_Cameroon,1
 2722,loan_buck_0,1
@@ -9833,7 +9833,7 @@
 2738,COUNTRY_Peru,1
 2738,loan_buck_8,1
 2738,pfr_buck_2,1
-2740,ACTIVITY_Transportation,1
+2740,ACTIVITY_low_pfr,1
 2740,GENDER_M,1
 2740,COUNTRY_low_pfr,1
 2740,loan_buck_7,1
@@ -9873,7 +9873,7 @@
 2759,COUNTRY_El,1
 2759,loan_buck_2,1
 2759,pfr_buck_1,1
-2760,ACTIVITY_Farming,1
+2760,ACTIVITY_low_pfr,1
 2760,GENDER_F,1
 2760,COUNTRY_low_pfr,1
 2760,loan_buck_6,1
@@ -9893,7 +9893,7 @@
 2767,COUNTRY_El,1
 2767,loan_buck_0,1
 2767,pfr_buck_1,1
-2769,ACTIVITY_Services,1
+2769,ACTIVITY_low_pfr,1
 2769,GENDER_F,1
 2769,COUNTRY_Brazil,1
 2769,loan_buck_9,1
@@ -9908,7 +9908,7 @@
 2772,COUNTRY_Zimbabwe,1
 2772,loan_buck_4,1
 2772,pfr_buck_2,1
-2776,ACTIVITY_Services,1
+2776,ACTIVITY_low_pfr,1
 2776,GENDER_F,1
 2776,COUNTRY_Kenya,1
 2776,loan_buck_1,1
@@ -9998,7 +9998,7 @@
 2819,COUNTRY_Cambodia,1
 2819,loan_buck_4,1
 2819,pfr_buck_0,1
-2821,ACTIVITY_Services,1
+2821,ACTIVITY_low_pfr,1
 2821,GENDER_M,1
 2821,COUNTRY_El,1
 2821,loan_buck_3,1
@@ -10043,7 +10043,7 @@
 2837,COUNTRY_Haiti,1
 2837,loan_buck_3,1
 2837,pfr_buck_2,1
-2838,ACTIVITY_Rickshaw,1
+2838,ACTIVITY_low_pfr,1
 2838,GENDER_M,1
 2838,COUNTRY_Cambodia,1
 2838,loan_buck_4,1
@@ -10058,7 +10058,7 @@
 2842,COUNTRY_Guatemala,1
 2842,loan_buck_4,1
 2842,pfr_buck_3,1
-2843,ACTIVITY_Hardware,1
+2843,ACTIVITY_low_pfr,1
 2843,GENDER_F,1
 2843,COUNTRY_Congo,1
 2843,loan_buck_9,1
@@ -10093,7 +10093,7 @@
 2853,COUNTRY_Ghana,1
 2853,loan_buck_5,1
 2853,pfr_buck_1,1
-2854,ACTIVITY_Aquaculture,1
+2854,ACTIVITY_low_pfr,1
 2854,GENDER_M,1
 2854,COUNTRY_Peru,1
 2854,loan_buck_5,1
@@ -10108,12 +10108,12 @@
 2857,COUNTRY_Palestine,1
 2857,loan_buck_8,1
 2857,pfr_buck_1,1
-2858,ACTIVITY_Services,1
+2858,ACTIVITY_low_pfr,1
 2858,GENDER_M,1
 2858,COUNTRY_Cambodia,1
 2858,loan_buck_6,1
 2858,pfr_buck_1,1
-2863,ACTIVITY_Rickshaw,1
+2863,ACTIVITY_low_pfr,1
 2863,GENDER_F,1
 2863,COUNTRY_Cambodia,1
 2863,loan_buck_6,1
@@ -10123,7 +10123,7 @@
 2871,COUNTRY_low_pfr,1
 2871,loan_buck_6,1
 2871,pfr_buck_1,1
-2872,ACTIVITY_Services,1
+2872,ACTIVITY_low_pfr,1
 2872,GENDER_F,1
 2872,COUNTRY_Nicaragua,1
 2872,loan_buck_6,1
@@ -10178,7 +10178,7 @@
 2887,COUNTRY_Brazil,1
 2887,loan_buck_8,1
 2887,pfr_buck_1,1
-2889,ACTIVITY_Services,1
+2889,ACTIVITY_low_pfr,1
 2889,GENDER_F,1
 2889,COUNTRY_Vietnam,1
 2889,loan_buck_4,1
@@ -10208,7 +10208,7 @@
 2895,COUNTRY_Haiti,1
 2895,loan_buck_1,1
 2895,pfr_buck_2,1
-2897,ACTIVITY_Farming,1
+2897,ACTIVITY_low_pfr,1
 2897,GENDER_F,1
 2897,COUNTRY_El,1
 2897,loan_buck_1,1
@@ -10238,7 +10238,7 @@
 2907,COUNTRY_Uganda,1
 2907,loan_buck_5,1
 2907,pfr_buck_1,1
-2908,ACTIVITY_Farming,1
+2908,ACTIVITY_low_pfr,1
 2908,GENDER_M,1
 2908,COUNTRY_Ecuador,1
 2908,loan_buck_3,1
@@ -10278,7 +10278,7 @@
 2919,COUNTRY_Jordan,1
 2919,loan_buck_6,1
 2919,pfr_buck_0,1
-2920,ACTIVITY_Pub,1
+2920,ACTIVITY_low_pfr,1
 2920,GENDER_F,1
 2920,COUNTRY_Ghana,1
 2920,loan_buck_6,1
@@ -10368,7 +10368,7 @@
 2954,COUNTRY_Philippines,1
 2954,loan_buck_0,1
 2954,pfr_buck_2,1
-2955,ACTIVITY_Services,1
+2955,ACTIVITY_low_pfr,1
 2955,GENDER_M,1
 2955,COUNTRY_Kenya,1
 2955,loan_buck_2,1
@@ -10388,7 +10388,7 @@
 2959,COUNTRY_Bolivia,1
 2959,loan_buck_5,1
 2959,pfr_buck_0,1
-2960,ACTIVITY_Farming,1
+2960,ACTIVITY_low_pfr,1
 2960,GENDER_F,1
 2960,COUNTRY_Philippines,1
 2960,loan_buck_1,1
@@ -10403,7 +10403,7 @@
 2963,COUNTRY_Senegal,1
 2963,loan_buck_9,1
 2963,pfr_buck_3,1
-2964,ACTIVITY_Farming,1
+2964,ACTIVITY_low_pfr,1
 2964,GENDER_F,1
 2964,COUNTRY_Kyrgyzstan,1
 2964,loan_buck_6,1
@@ -10428,7 +10428,7 @@
 2974,COUNTRY_El,1
 2974,loan_buck_4,1
 2974,pfr_buck_0,1
-2975,ACTIVITY_Transportation,1
+2975,ACTIVITY_low_pfr,1
 2975,GENDER_F,1
 2975,COUNTRY_Pakistan,1
 2975,loan_buck_0,1
@@ -10443,7 +10443,7 @@
 2980,COUNTRY_Philippines,1
 2980,loan_buck_3,1
 2980,pfr_buck_0,1
-2982,ACTIVITY_Transportation,1
+2982,ACTIVITY_low_pfr,1
 2982,GENDER_F,1
 2982,COUNTRY_Philippines,1
 2982,loan_buck_3,1
@@ -10598,7 +10598,7 @@
 3048,COUNTRY_Honduras,1
 3048,loan_buck_5,1
 3048,pfr_buck_3,1
-3049,ACTIVITY_Entertainment,1
+3049,ACTIVITY_low_pfr,1
 3049,GENDER_F,1
 3049,COUNTRY_United,1
 3049,loan_buck_9,1
@@ -10653,7 +10653,7 @@
 3061,COUNTRY_Philippines,1
 3061,loan_buck_0,1
 3061,pfr_buck_1,1
-3062,ACTIVITY_Services,1
+3062,ACTIVITY_low_pfr,1
 3062,GENDER_M,1
 3062,COUNTRY_low_pfr,1
 3062,loan_buck_8,1
@@ -10678,7 +10678,7 @@
 3067,COUNTRY_Lebanon,1
 3067,loan_buck_6,1
 3067,pfr_buck_1,1
-3069,ACTIVITY_Farming,1
+3069,ACTIVITY_low_pfr,1
 3069,GENDER_F,1
 3069,COUNTRY_low_pfr,1
 3069,loan_buck_7,1
@@ -10748,7 +10748,7 @@
 3104,COUNTRY_Ghana,1
 3104,loan_buck_9,1
 3104,pfr_buck_0,1
-3106,ACTIVITY_Farming,1
+3106,ACTIVITY_low_pfr,1
 3106,GENDER_M,1
 3106,COUNTRY_Palestine,1
 3106,loan_buck_7,1
@@ -10758,7 +10758,7 @@
 3110,COUNTRY_Guatemala,1
 3110,loan_buck_5,1
 3110,pfr_buck_1,1
-3113,ACTIVITY_Farming,1
+3113,ACTIVITY_low_pfr,1
 3113,GENDER_M,1
 3113,COUNTRY_Ghana,1
 3113,loan_buck_0,1
@@ -10773,7 +10773,7 @@
 3117,COUNTRY_low_pfr,1
 3117,loan_buck_5,1
 3117,pfr_buck_3,1
-3118,ACTIVITY_Farming,1
+3118,ACTIVITY_low_pfr,1
 3118,GENDER_F,1
 3118,COUNTRY_Kosovo,1
 3118,loan_buck_7,1
@@ -10798,7 +10798,7 @@
 3129,COUNTRY_Congo,1
 3129,loan_buck_9,1
 3129,pfr_buck_3,1
-3130,ACTIVITY_Catering,1
+3130,ACTIVITY_low_pfr,1
 3130,GENDER_F,1
 3130,COUNTRY_Brazil,1
 3130,loan_buck_8,1
@@ -10813,7 +10813,7 @@
 3135,COUNTRY_Lebanon,1
 3135,loan_buck_6,1
 3135,pfr_buck_0,1
-3136,ACTIVITY_Services,1
+3136,ACTIVITY_low_pfr,1
 3136,GENDER_F,1
 3136,COUNTRY_Philippines,1
 3136,loan_buck_2,1
@@ -10828,7 +10828,7 @@
 3140,COUNTRY_Nicaragua,1
 3140,loan_buck_7,1
 3140,pfr_buck_0,1
-3141,ACTIVITY_Farming,1
+3141,ACTIVITY_low_pfr,1
 3141,GENDER_F,1
 3141,COUNTRY_Uganda,1
 3141,loan_buck_7,1
@@ -10883,12 +10883,12 @@
 3169,COUNTRY_Kenya,1
 3169,loan_buck_0,1
 3169,pfr_buck_3,1
-3170,ACTIVITY_Farming,1
+3170,ACTIVITY_low_pfr,1
 3170,GENDER_M,1
 3170,COUNTRY_Philippines,1
 3170,loan_buck_3,1
 3170,pfr_buck_3,1
-3171,ACTIVITY_Farming,1
+3171,ACTIVITY_low_pfr,1
 3171,GENDER_F,1
 3171,COUNTRY_Samoa,1
 3171,loan_buck_3,1
@@ -10903,7 +10903,7 @@
 3173,COUNTRY_Tajikistan,1
 3173,loan_buck_3,1
 3173,pfr_buck_0,1
-3175,ACTIVITY_Services,1
+3175,ACTIVITY_low_pfr,1
 3175,GENDER_F,1
 3175,COUNTRY_Paraguay,1
 3175,loan_buck_7,1
@@ -10958,7 +10958,7 @@
 3201,COUNTRY_Haiti,1
 3201,loan_buck_5,1
 3201,pfr_buck_1,1
-3202,ACTIVITY_Farming,1
+3202,ACTIVITY_low_pfr,1
 3202,GENDER_M,1
 3202,COUNTRY_low_pfr,1
 3202,loan_buck_5,1
@@ -10968,7 +10968,7 @@
 3204,COUNTRY_Guatemala,1
 3204,loan_buck_8,1
 3204,pfr_buck_3,1
-3211,ACTIVITY_Farming,1
+3211,ACTIVITY_low_pfr,1
 3211,GENDER_F,1
 3211,COUNTRY_Tanzania,1
 3211,loan_buck_5,1
@@ -10998,7 +10998,7 @@
 3224,COUNTRY_low_pfr,1
 3224,loan_buck_2,1
 3224,pfr_buck_3,1
-3230,ACTIVITY_Transportation,1
+3230,ACTIVITY_low_pfr,1
 3230,GENDER_M,1
 3230,COUNTRY_Congo,1
 3230,loan_buck_7,1
@@ -11018,7 +11018,7 @@
 3237,COUNTRY_Rwanda,1
 3237,loan_buck_9,1
 3237,pfr_buck_3,1
-3239,ACTIVITY_Hardware,1
+3239,ACTIVITY_low_pfr,1
 3239,GENDER_M,1
 3239,COUNTRY_Zimbabwe,1
 3239,loan_buck_4,1
@@ -11048,7 +11048,7 @@
 3250,COUNTRY_Philippines,1
 3250,loan_buck_3,1
 3250,pfr_buck_0,1
-3253,ACTIVITY_Services,1
+3253,ACTIVITY_low_pfr,1
 3253,GENDER_M,1
 3253,COUNTRY_Nicaragua,1
 3253,loan_buck_4,1
@@ -11113,7 +11113,7 @@
 3279,COUNTRY_Rwanda,1
 3279,loan_buck_9,1
 3279,pfr_buck_0,1
-3280,ACTIVITY_Farming,1
+3280,ACTIVITY_low_pfr,1
 3280,GENDER_F,1
 3280,COUNTRY_Guatemala,1
 3280,loan_buck_7,1
@@ -11123,7 +11123,7 @@
 3281,COUNTRY_Congo,1
 3281,loan_buck_8,1
 3281,pfr_buck_3,1
-3283,ACTIVITY_Farming,1
+3283,ACTIVITY_low_pfr,1
 3283,GENDER_F,1
 3283,COUNTRY_Philippines,1
 3283,loan_buck_1,1
@@ -11133,7 +11133,7 @@
 3286,COUNTRY_Rwanda,1
 3286,loan_buck_9,1
 3286,pfr_buck_3,1
-3287,ACTIVITY_Taxi,1
+3287,ACTIVITY_low_pfr,1
 3287,GENDER_M,1
 3287,COUNTRY_Bolivia,1
 3287,loan_buck_3,1
@@ -11153,7 +11153,7 @@
 3293,COUNTRY_Paraguay,1
 3293,loan_buck_5,1
 3293,pfr_buck_0,1
-3294,ACTIVITY_Farming,1
+3294,ACTIVITY_low_pfr,1
 3294,GENDER_M,1
 3294,COUNTRY_Kenya,1
 3294,loan_buck_1,1
@@ -11258,7 +11258,7 @@
 3343,COUNTRY_Bolivia,1
 3343,loan_buck_9,1
 3343,pfr_buck_3,1
-3344,ACTIVITY_Aquaculture,1
+3344,ACTIVITY_low_pfr,1
 3344,GENDER_F,1
 3344,COUNTRY_Colombia,1
 3344,loan_buck_4,1
@@ -11288,7 +11288,7 @@
 3356,COUNTRY_United,1
 3356,loan_buck_8,1
 3356,pfr_buck_0,1
-3357,ACTIVITY_Photography,1
+3357,ACTIVITY_low_pfr,1
 3357,GENDER_F,1
 3357,COUNTRY_Lebanon,1
 3357,loan_buck_7,1
@@ -11358,7 +11358,7 @@
 3394,COUNTRY_Burkina,1
 3394,loan_buck_4,1
 3394,pfr_buck_3,1
-3395,ACTIVITY_Health,1
+3395,ACTIVITY_low_pfr,1
 3395,GENDER_F,1
 3395,COUNTRY_Bolivia,1
 3395,loan_buck_8,1
@@ -11368,12 +11368,12 @@
 3399,COUNTRY_El,1
 3399,loan_buck_1,1
 3399,pfr_buck_0,1
-3402,ACTIVITY_Farming,1
+3402,ACTIVITY_low_pfr,1
 3402,GENDER_F,1
 3402,COUNTRY_Rwanda,1
 3402,loan_buck_8,1
 3402,pfr_buck_0,1
-3409,ACTIVITY_Cafe,1
+3409,ACTIVITY_low_pfr,1
 3409,GENDER_F,1
 3409,COUNTRY_Lebanon,1
 3409,loan_buck_6,1
@@ -11388,12 +11388,12 @@
 3428,COUNTRY_Brazil,1
 3428,loan_buck_8,1
 3428,pfr_buck_0,1
-3429,ACTIVITY_Farming,1
+3429,ACTIVITY_low_pfr,1
 3429,GENDER_M,1
 3429,COUNTRY_Ecuador,1
 3429,loan_buck_3,1
 3429,pfr_buck_3,1
-3432,ACTIVITY_Cafe,1
+3432,ACTIVITY_low_pfr,1
 3432,GENDER_F,1
 3432,COUNTRY_Malawi,1
 3432,loan_buck_8,1
@@ -11428,7 +11428,7 @@
 3445,COUNTRY_low_pfr,1
 3445,loan_buck_6,1
 3445,pfr_buck_0,1
-3447,ACTIVITY_Farming,1
+3447,ACTIVITY_low_pfr,1
 3447,GENDER_F,1
 3447,COUNTRY_Samoa,1
 3447,loan_buck_4,1
@@ -11448,7 +11448,7 @@
 3458,COUNTRY_Congo,1
 3458,loan_buck_9,1
 3458,pfr_buck_1,1
-3459,ACTIVITY_Cafe,1
+3459,ACTIVITY_low_pfr,1
 3459,GENDER_F,1
 3459,COUNTRY_Colombia,1
 3459,loan_buck_3,1
@@ -11468,7 +11468,7 @@
 3474,COUNTRY_Sierra,1
 3474,loan_buck_0,1
 3474,pfr_buck_0,1
-3477,ACTIVITY_Taxi,1
+3477,ACTIVITY_low_pfr,1
 3477,GENDER_M,1
 3477,COUNTRY_Congo,1
 3477,loan_buck_2,1
@@ -11493,7 +11493,7 @@
 3492,COUNTRY_Kosovo,1
 3492,loan_buck_5,1
 3492,pfr_buck_3,1
-3495,ACTIVITY_Cobbler,1
+3495,ACTIVITY_low_pfr,1
 3495,GENDER_M,1
 3495,COUNTRY_Nicaragua,1
 3495,loan_buck_5,1
@@ -11563,7 +11563,7 @@
 3544,COUNTRY_Rwanda,1
 3544,loan_buck_9,1
 3544,pfr_buck_0,1
-3548,ACTIVITY_Taxi,1
+3548,ACTIVITY_low_pfr,1
 3548,GENDER_F,1
 3548,COUNTRY_Nicaragua,1
 3548,loan_buck_4,1
@@ -11608,7 +11608,7 @@
 3586,COUNTRY_Sierra,1
 3586,loan_buck_2,1
 3586,pfr_buck_0,1
-3589,ACTIVITY_Communications,1
+3589,ACTIVITY_low_pfr,1
 3589,GENDER_M,1
 3589,COUNTRY_United,1
 3589,loan_buck_7,1
@@ -11633,7 +11633,7 @@
 3617,COUNTRY_Guatemala,1
 3617,loan_buck_8,1
 3617,pfr_buck_1,1
-3622,ACTIVITY_Services,1
+3622,ACTIVITY_low_pfr,1
 3622,GENDER_F,1
 3622,COUNTRY_Rwanda,1
 3622,loan_buck_9,1
@@ -11868,7 +11868,7 @@
 3824,COUNTRY_Bolivia,1
 3824,loan_buck_9,1
 3824,pfr_buck_0,1
-3829,ACTIVITY_Pub,1
+3829,ACTIVITY_low_pfr,1
 3829,GENDER_F,1
 3829,COUNTRY_Bolivia,1
 3829,loan_buck_9,1
@@ -11903,7 +11903,7 @@
 3862,COUNTRY_Senegal,1
 3862,loan_buck_9,1
 3862,pfr_buck_0,1
-3863,ACTIVITY_Entertainment,1
+3863,ACTIVITY_low_pfr,1
 3863,GENDER_F,1
 3863,COUNTRY_Pakistan,1
 3863,loan_buck_1,1
@@ -12013,7 +12013,7 @@
 3992,COUNTRY_Paraguay,1
 3992,loan_buck_8,1
 3992,pfr_buck_2,1
-3998,ACTIVITY_Cafe,1
+3998,ACTIVITY_low_pfr,1
 3998,GENDER_F,1
 3998,COUNTRY_Brazil,1
 3998,loan_buck_8,1
@@ -12043,12 +12043,12 @@
 4022,COUNTRY_Uganda,1
 4022,loan_buck_8,1
 4022,pfr_buck_2,1
-4028,ACTIVITY_Entertainment,1
+4028,ACTIVITY_low_pfr,1
 4028,GENDER_M,1
 4028,COUNTRY_Rwanda,1
 4028,loan_buck_9,1
 4028,pfr_buck_0,1
-4030,ACTIVITY_Catering,1
+4030,ACTIVITY_low_pfr,1
 4030,GENDER_F,1
 4030,COUNTRY_Rwanda,1
 4030,loan_buck_9,1
@@ -12108,12 +12108,12 @@
 4122,COUNTRY_Bolivia,1
 4122,loan_buck_9,1
 4122,pfr_buck_0,1
-4171,ACTIVITY_Aquaculture,1
+4171,ACTIVITY_low_pfr,1
 4171,GENDER_F,1
 4171,COUNTRY_Zimbabwe,1
 4171,loan_buck_6,1
 4171,pfr_buck_3,1
-4174,ACTIVITY_Cobbler,1
+4174,ACTIVITY_low_pfr,1
 4174,GENDER_M,1
 4174,COUNTRY_Brazil,1
 4174,loan_buck_7,1
@@ -12158,7 +12158,7 @@
 4367,COUNTRY_Bolivia,1
 4367,loan_buck_5,1
 4367,pfr_buck_0,1
-4379,ACTIVITY_Electrician,1
+4379,ACTIVITY_low_pfr,1
 4379,GENDER_M,1
 4379,COUNTRY_Kosovo,1
 4379,loan_buck_6,1
@@ -12193,7 +12193,7 @@
 4514,COUNTRY_Ecuador,1
 4514,loan_buck_4,1
 4514,pfr_buck_3,1
-4517,ACTIVITY_Services,1
+4517,ACTIVITY_low_pfr,1
 4517,GENDER_M,1
 4517,COUNTRY_Peru,1
 4517,loan_buck_7,1
@@ -12203,7 +12203,7 @@
 4547,COUNTRY_Kosovo,1
 4547,loan_buck_5,1
 4547,pfr_buck_3,1
-4564,ACTIVITY_Transportation,1
+4564,ACTIVITY_low_pfr,1
 4564,GENDER_M,1
 4564,COUNTRY_Paraguay,1
 4564,loan_buck_5,1
@@ -12318,12 +12318,12 @@
 4599,COUNTRY_Nicaragua,1
 4599,loan_buck_5,1
 4599,pfr_buck_3,1
-4600,ACTIVITY_Services,1
+4600,ACTIVITY_low_pfr,1
 4600,GENDER_F,1
 4600,COUNTRY_El,1
 4600,loan_buck_4,1
 4600,pfr_buck_0,1
-4601,ACTIVITY_Rickshaw,1
+4601,ACTIVITY_low_pfr,1
 4601,GENDER_F,1
 4601,COUNTRY_Pakistan,1
 4601,loan_buck_1,1
@@ -12368,7 +12368,7 @@
 4617,COUNTRY_Colombia,1
 4617,loan_buck_0,1
 4617,pfr_buck_3,1
-4619,ACTIVITY_Services,1
+4619,ACTIVITY_low_pfr,1
 4619,GENDER_F,1
 4619,COUNTRY_Kosovo,1
 4619,loan_buck_5,1
@@ -12413,7 +12413,7 @@
 4636,COUNTRY_Congo,1
 4636,loan_buck_9,1
 4636,pfr_buck_0,1
-4637,ACTIVITY_Farming,1
+4637,ACTIVITY_low_pfr,1
 4637,GENDER_F,1
 4637,COUNTRY_Cambodia,1
 4637,loan_buck_4,1
@@ -12433,7 +12433,7 @@
 4642,COUNTRY_Kenya,1
 4642,loan_buck_0,1
 4642,pfr_buck_0,1
-4643,ACTIVITY_Farming,1
+4643,ACTIVITY_low_pfr,1
 4643,GENDER_M,1
 4643,COUNTRY_Nicaragua,1
 4643,loan_buck_3,1
@@ -12448,7 +12448,7 @@
 4645,COUNTRY_Palestine,1
 4645,loan_buck_7,1
 4645,pfr_buck_3,1
-4646,ACTIVITY_Catering,1
+4646,ACTIVITY_low_pfr,1
 4646,GENDER_F,1
 4646,COUNTRY_Nicaragua,1
 4646,loan_buck_4,1
@@ -12468,7 +12468,7 @@
 4652,COUNTRY_Senegal,1
 4652,loan_buck_5,1
 4652,pfr_buck_0,1
-4653,ACTIVITY_Farming,1
+4653,ACTIVITY_low_pfr,1
 4653,GENDER_M,1
 4653,COUNTRY_Kenya,1
 4653,loan_buck_0,1
@@ -12478,7 +12478,7 @@
 4655,COUNTRY_Kenya,1
 4655,loan_buck_0,1
 4655,pfr_buck_1,1
-4656,ACTIVITY_Pub,1
+4656,ACTIVITY_low_pfr,1
 4656,GENDER_F,1
 4656,COUNTRY_Uganda,1
 4656,loan_buck_5,1
@@ -12488,7 +12488,7 @@
 4657,COUNTRY_Palestine,1
 4657,loan_buck_8,1
 4657,pfr_buck_3,1
-4660,ACTIVITY_Farming,1
+4660,ACTIVITY_low_pfr,1
 4660,GENDER_F,1
 4660,COUNTRY_low_pfr,1
 4660,loan_buck_9,1
@@ -12513,7 +12513,7 @@
 4667,COUNTRY_Paraguay,1
 4667,loan_buck_9,1
 4667,pfr_buck_2,1
-4669,ACTIVITY_Transportation,1
+4669,ACTIVITY_low_pfr,1
 4669,GENDER_F,1
 4669,COUNTRY_Pakistan,1
 4669,loan_buck_0,1
@@ -12593,7 +12593,7 @@
 4695,COUNTRY_Paraguay,1
 4695,loan_buck_2,1
 4695,pfr_buck_3,1
-4696,ACTIVITY_Rickshaw,1
+4696,ACTIVITY_low_pfr,1
 4696,GENDER_F,1
 4696,COUNTRY_Pakistan,1
 4696,loan_buck_0,1
@@ -12608,7 +12608,7 @@
 4700,COUNTRY_low_pfr,1
 4700,loan_buck_6,1
 4700,pfr_buck_1,1
-4701,ACTIVITY_Farming,1
+4701,ACTIVITY_low_pfr,1
 4701,GENDER_M,1
 4701,COUNTRY_Guatemala,1
 4701,loan_buck_5,1
@@ -12708,7 +12708,7 @@
 4731,COUNTRY_Pakistan,1
 4731,loan_buck_0,1
 4731,pfr_buck_0,1
-4732,ACTIVITY_Farming,1
+4732,ACTIVITY_low_pfr,1
 4732,GENDER_F,1
 4732,COUNTRY_Palestine,1
 4732,loan_buck_8,1
@@ -12723,7 +12723,7 @@
 4735,COUNTRY_low_pfr,1
 4735,loan_buck_5,1
 4735,pfr_buck_1,1
-4736,ACTIVITY_Pub,1
+4736,ACTIVITY_low_pfr,1
 4736,GENDER_F,1
 4736,COUNTRY_Rwanda,1
 4736,loan_buck_9,1
@@ -12778,7 +12778,7 @@
 4749,COUNTRY_Colombia,1
 4749,loan_buck_3,1
 4749,pfr_buck_0,1
-4751,ACTIVITY_Pub,1
+4751,ACTIVITY_low_pfr,1
 4751,GENDER_F,1
 4751,COUNTRY_Rwanda,1
 4751,loan_buck_9,1
@@ -12793,7 +12793,7 @@
 4754,COUNTRY_Myanmar,1
 4754,loan_buck_4,1
 4754,pfr_buck_3,1
-4756,ACTIVITY_Farming,1
+4756,ACTIVITY_low_pfr,1
 4756,GENDER_M,1
 4756,COUNTRY_Peru,1
 4756,loan_buck_5,1
@@ -12808,7 +12808,7 @@
 4759,COUNTRY_Paraguay,1
 4759,loan_buck_8,1
 4759,pfr_buck_0,1
-4762,ACTIVITY_Farming,1
+4762,ACTIVITY_low_pfr,1
 4762,GENDER_F,1
 4762,COUNTRY_Myanmar,1
 4762,loan_buck_5,1
@@ -12828,7 +12828,7 @@
 4766,COUNTRY_Philippines,1
 4766,loan_buck_0,1
 4766,pfr_buck_2,1
-4767,ACTIVITY_Transportation,1
+4767,ACTIVITY_low_pfr,1
 4767,GENDER_M,1
 4767,COUNTRY_Peru,1
 4767,loan_buck_6,1
@@ -12843,7 +12843,7 @@
 4770,COUNTRY_Tanzania,1
 4770,loan_buck_3,1
 4770,pfr_buck_0,1
-4775,ACTIVITY_Farming,1
+4775,ACTIVITY_low_pfr,1
 4775,GENDER_M,1
 4775,COUNTRY_Kyrgyzstan,1
 4775,loan_buck_6,1
@@ -12883,7 +12883,7 @@
 4785,COUNTRY_El,1
 4785,loan_buck_4,1
 4785,pfr_buck_0,1
-4786,ACTIVITY_Photography,1
+4786,ACTIVITY_low_pfr,1
 4786,GENDER_M,1
 4786,COUNTRY_Kenya,1
 4786,loan_buck_2,1
@@ -12903,7 +12903,7 @@
 4795,COUNTRY_Cambodia,1
 4795,loan_buck_7,1
 4795,pfr_buck_3,1
-4798,ACTIVITY_Services,1
+4798,ACTIVITY_low_pfr,1
 4798,GENDER_F,1
 4798,COUNTRY_Pakistan,1
 4798,loan_buck_0,1
@@ -12923,7 +12923,7 @@
 4801,COUNTRY_Ghana,1
 4801,loan_buck_6,1
 4801,pfr_buck_0,1
-4802,ACTIVITY_Farming,1
+4802,ACTIVITY_low_pfr,1
 4802,GENDER_M,1
 4802,COUNTRY_Guatemala,1
 4802,loan_buck_4,1
@@ -12938,7 +12938,7 @@
 4804,COUNTRY_Uganda,1
 4804,loan_buck_8,1
 4804,pfr_buck_3,1
-4805,ACTIVITY_Taxi,1
+4805,ACTIVITY_low_pfr,1
 4805,GENDER_F,1
 4805,COUNTRY_Pakistan,1
 4805,loan_buck_0,1
@@ -13003,7 +13003,7 @@
 4829,COUNTRY_Kyrgyzstan,1
 4829,loan_buck_3,1
 4829,pfr_buck_3,1
-4830,ACTIVITY_Farming,1
+4830,ACTIVITY_low_pfr,1
 4830,GENDER_M,1
 4830,COUNTRY_Uganda,1
 4830,loan_buck_3,1
@@ -13013,7 +13013,7 @@
 4832,COUNTRY_Vietnam,1
 4832,loan_buck_3,1
 4832,pfr_buck_3,1
-4833,ACTIVITY_Farming,1
+4833,ACTIVITY_low_pfr,1
 4833,GENDER_M,1
 4833,COUNTRY_Myanmar,1
 4833,loan_buck_5,1
@@ -13028,7 +13028,7 @@
 4842,COUNTRY_Rwanda,1
 4842,loan_buck_9,1
 4842,pfr_buck_2,1
-4843,ACTIVITY_Farming,1
+4843,ACTIVITY_low_pfr,1
 4843,GENDER_M,1
 4843,COUNTRY_low_pfr,1
 4843,loan_buck_3,1
@@ -13198,7 +13198,7 @@
 4924,COUNTRY_Pakistan,1
 4924,loan_buck_7,1
 4924,pfr_buck_3,1
-4927,ACTIVITY_Farming,1
+4927,ACTIVITY_low_pfr,1
 4927,GENDER_F,1
 4927,COUNTRY_Kenya,1
 4927,loan_buck_0,1
@@ -13288,7 +13288,7 @@
 4964,COUNTRY_Paraguay,1
 4964,loan_buck_9,1
 4964,pfr_buck_3,1
-4966,ACTIVITY_Farming,1
+4966,ACTIVITY_low_pfr,1
 4966,GENDER_M,1
 4966,COUNTRY_Cameroon,1
 4966,loan_buck_1,1
@@ -13333,7 +13333,7 @@
 4982,COUNTRY_Cambodia,1
 4982,loan_buck_4,1
 4982,pfr_buck_1,1
-4983,ACTIVITY_Transportation,1
+4983,ACTIVITY_low_pfr,1
 4983,GENDER_M,1
 4983,COUNTRY_Zimbabwe,1
 4983,loan_buck_7,1

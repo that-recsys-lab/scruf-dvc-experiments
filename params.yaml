@@ -1,9 +1,7 @@
 config:
-  choice: ['RuleBorda']
-  allocation: ['product_lottery']
-  rec_weight: [2]
-
-post:
-  agents: [[[‘metric1’, 0.25, ‘feature1’], [‘agent2’, ‘metric2’, ‘feature2’]]]
-
+  choice: ['RuleBorda', 'RuleCopeland']
+  allocation: ['weighted_product_allocation']
+  rec_weight: [0.1]
+  folder_path: "../scruf-dvc-experiments/kiva/"
+  base_toml: "../scruf-dvc-experiments/kiva/Rescore_weighted.toml"
 
