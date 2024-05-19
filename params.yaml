@@ -1,7 +1,7 @@
 config:
-  choice: ['RuleBorda', 'RuleCopeland']
-  allocation: ['weighted_product_allocation']
-  rec_weight: [0.1]
-  folder_path: "../scruf-dvc-experiments/kiva/"
-  base_toml: "../scruf-dvc-experiments/kiva/Rescore_weighted.toml"
+  choice: ['RuleBorda', 'RuleCopeland', 'weighted_scoring']
+  allocation: ['least_fair', 'product_lottery', 'weighted_product_allocation']
+  rec_weight: [0.6]
+  folder_path: "../scruf-dvc-experiments/synthetic/" #change here for new data
+  base_toml: "../scruf-dvc-experiments/synthetic/synthetic_config.toml" #change here for new agent definitions/data
 

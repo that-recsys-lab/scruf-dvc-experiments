@@ -1,12 +1,12 @@
 stages:
   config_generation:
-    cmd: python ../scruf_d/_toml_gen.py
+    cmd: python ../scruf_d/_toml_gen.py #needs scruf_d in the same folder as your experiments or to be edited
     params:
     - config.rec_weight
     - config.choice
     - config.allocation
   run_scruf:
-    cmd: python ../scruf_d/__main__MODIFY.py
+    cmd: python ../scruf_d/__main__MODIFY.py #needs scruf_d in the same folder as your experiments or to be edited
 
 
 

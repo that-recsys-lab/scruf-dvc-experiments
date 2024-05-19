@@ -1,0 +1,92 @@
+[location]
+path = "kiva/data"
+overwrite = "true"
+
+[data]
+rec_filename = "recs_filter.csv"
+feature_filename = "items.csv"
+
+[output]
+filename = "history_file_three_features_weighted_scoring_least_fair_2.json"
+
+[parameters]
+list_size = 10
+iterations = -1
+initialize = "skip"
+history_window_size = 100
+
+[context]
+context_class = "csv_context"
+
+[allocation]
+allocation_class = "least_fair"
+
+[choice]
+choice_class = "weighted_scoring"
+
+[post]
+postprocess_class = "null"
+
+[context.properties]
+compatibility_file = "compat.csv"
+
+[feature.one]
+name = "COUNTRY_low_pfr"
+protected_feature = "COUNTRY_low_pfr"
+protected_values = [ 1,]
+
+[feature.two]
+name = "loan_buck_5"
+protected_feature = "loan_buck_5"
+protected_values = [ 1,]
+
+[feature.three]
+name = "ACTIVITY_low_pfr"
+protected_feature = "ACTIVITY_low_pfr"
+protected_values = [ 1,]
+
+[agent.one]
+name = "COUNTRY_low_pfr"
+metric_class = "disparate_exposure"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[agent.two]
+name = "loan_buck_5"
+metric_class = "mrr"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[agent.three]
+name = "ACTIVITY_low_pfr"
+metric_class = "proportional_item"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[choice.properties]
+recommender_weight = 0.2
+
+[agent.one.metric]
+feature = "COUNTRY_low_pfr"
+n_protected = 0.04
+target = 1.25
+
+[agent.one.preference]
+delta = 1.5
+feature = "COUNTRY_low_pfr"
+
+[agent.two.metric]
+feature = "loan_buck_5"
+target = 0.4
+
+[agent.two.preference]
+delta = 1.7
+feature = "loan_buck_5"
+
+[agent.three.metric]
+feature = "ACTIVITY_low_pfr"
+proportion = 0.2
+
+[agent.three.preference]
+delta = 1.3
+feature = "ACTIVITY_low_pfr"

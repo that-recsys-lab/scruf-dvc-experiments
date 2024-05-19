@@ -1,0 +1,10 @@
+,Config Number,Config Path,Output Path,recommender_weight
+0,1,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleBorda_least_fair_1.toml,kiva_RuleBorda_least_fair.json,0.6
+1,2,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleBorda_product_lottery_2.toml,kiva_RuleBorda_product_lottery.json,0.6
+2,3,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleBorda_weighted_product_allocation_3.toml,kiva_RuleBorda_weighted_product_allocation.json,0.6
+3,4,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleCopeland_least_fair_4.toml,kiva_RuleCopeland_least_fair.json,0.6
+4,5,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleCopeland_product_lottery_5.toml,kiva_RuleCopeland_product_lottery.json,0.6
+5,6,../scruf-dvc-experiments/kiva_1//Rescore_weighted_RuleCopeland_weighted_product_allocation_6.toml,kiva_RuleCopeland_weighted_product_allocation.json,0.6
+6,7,../scruf-dvc-experiments/kiva_1//Rescore_weighted_weighted_scoring_least_fair_7.toml,kiva_weighted_scoring_least_fair.json,0.6
+7,8,../scruf-dvc-experiments/kiva_1//Rescore_weighted_weighted_scoring_product_lottery_8.toml,kiva_weighted_scoring_product_lottery.json,0.6
+8,9,../scruf-dvc-experiments/kiva_1//Rescore_weighted_weighted_scoring_weighted_product_allocation_9.toml,kiva_weighted_scoring_weighted_product_allocation.json,0.6

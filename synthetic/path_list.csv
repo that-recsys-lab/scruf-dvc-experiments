@@ -1,0 +1,10 @@
+,Config Number,Config Path,Output Path,recommender_weight
+0,1,../scruf-dvc-experiments/synthetic//synthetic_config_RuleBorda_least_fair_1.toml,synthetic_data_history_RuleBorda_least_fair.json,0.6
+1,2,../scruf-dvc-experiments/synthetic//synthetic_config_RuleBorda_product_lottery_2.toml,synthetic_data_history_RuleBorda_product_lottery.json,0.6
+2,3,../scruf-dvc-experiments/synthetic//synthetic_config_RuleBorda_weighted_product_allocation_3.toml,synthetic_data_history_RuleBorda_weighted_product_allocation.json,0.6
+3,4,../scruf-dvc-experiments/synthetic//synthetic_config_RuleCopeland_least_fair_4.toml,synthetic_data_history_RuleCopeland_least_fair.json,0.6
+4,5,../scruf-dvc-experiments/synthetic//synthetic_config_RuleCopeland_product_lottery_5.toml,synthetic_data_history_RuleCopeland_product_lottery.json,0.6
+5,6,../scruf-dvc-experiments/synthetic//synthetic_config_RuleCopeland_weighted_product_allocation_6.toml,synthetic_data_history_RuleCopeland_weighted_product_allocation.json,0.6
+6,7,../scruf-dvc-experiments/synthetic//synthetic_config_weighted_scoring_least_fair_7.toml,synthetic_data_history_weighted_scoring_least_fair.json,0.6
+7,8,../scruf-dvc-experiments/synthetic//synthetic_config_weighted_scoring_product_lottery_8.toml,synthetic_data_history_weighted_scoring_product_lottery.json,0.6
+8,9,../scruf-dvc-experiments/synthetic//synthetic_config_weighted_scoring_weighted_product_allocation_9.toml,synthetic_data_history_weighted_scoring_weighted_product_allocation.json,0.6

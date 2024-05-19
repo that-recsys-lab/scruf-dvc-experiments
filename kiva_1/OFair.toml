@@ -1,0 +1,594 @@
+[location]
+path = "./data"
+overwrite = "true"
+
+[data]
+rec_filename = "recs_1.csv"
+feature_filename = "items.csv"
+
+[output]
+filename = "baseline_OFair.json"
+
+[parameters]
+list_size = 10
+iterations = -1
+initialize = "skip"
+history_window_size = 100
+
+[context]
+context_class = "csv_context"
+
+[context.properties]
+compatibility_file = "compat.csv"
+
+
+
+[agent]
+[agent.one]
+name = "COUNTRY_low_pfr"
+metric_class = "disparate_exposure"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[agent.one.metric]
+feature = "COUNTRY_low_pfr"
+n_protected = 0.04
+target = 4
+
+[agent.one.preference]
+delta = 0.9
+feature = "COUNTRY_low_pfr"
+
+[agent.two]
+name = "loan_buck_5"
+metric_class = "mrr"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[agent.two.metric]
+feature = "loan_buck_5"
+target = 0.7
+
+[agent.two.preference]
+delta = 0.8
+feature = "loan_buck_5"
+
+[agent.three]
+name = "ACTIVITY_low_pfr"
+metric_class = "proportional_item"
+compatibility_class = "context_compatibility"
+preference_function_class = "cascade_preference"
+
+[agent.three.metric]
+feature = "ACTIVITY_low_pfr"
+proportion = 0.2
+
+[agent.three.preference]
+delta = 0.7
+feature = "ACTIVITY_low_pfr"
+
+[allocation]
+allocation_class = "weighted_product_allocation"
+
+[allocation.properties]
+compatibility_exponent = 2
+fairness_exponent = 1
+
+[choice]
+choice_class = "OFAIR"
+
+[choice.properties]
+recommender_weight = 0.31
+non_sensitive_discount = 100
+epsilon = 0.00000000000000022
+alpha = 1.0
+
+[post]
+postprocess_class = "exposure"
+
+[post.properties]
+full_filename = "Baseline_kiva.csv"
+summary_filename = "baseline_OFair"
+threshold = "none"
+binary = "false"
+
+[feature]
+
+[feature.one]
+name = "ACTIVITY_Food"
+protected_feature = "ACTIVITY_Food"
+[feature.two]
+name = "GENDER_F"
+protected_feature = "GENDER_F"
+[feature.three]
+name = "COUNTRY_Liberia"
+protected_feature = "COUNTRY_Liberia"
+[feature.four]
+name = "loan_buck_0"
+protected_feature = "loan_buck_0"
+[feature.five]
+name = "pfr_buck_2"
+protected_feature = "pfr_buck_2"
+[feature.six]
+name = "ACTIVITY_Fuel/Firewood"
+protected_feature = "ACTIVITY_Fuel/Firewood"
+[feature.seven]
+name = "COUNTRY_low_pfr"
+protected_feature = "COUNTRY_low_pfr"
+protected_values = [1]
+[feature.eight]
+name = "loan_buck_5"
+protected_feature = "loan_buck_5"
+protected_values=[1]
+[feature.nine]
+name = "ACTIVITY_Poultry"
+protected_feature = "ACTIVITY_Poultry"
+[feature.ten]
+name = "GENDER_M"
+protected_feature = "GENDER_M"
+[feature.eleven]
+name = "COUNTRY_Palestine"
+protected_feature = "COUNTRY_Palestine"
+[feature.twelve]
+name = "loan_buck_6"
+protected_feature = "loan_buck_6"
+[feature.thirteen]
+name = "pfr_buck_1"
+protected_feature = "pfr_buck_1"
+[feature.fourteen]
+name = "ACTIVITY_Cattle"
+protected_feature = "ACTIVITY_Cattle"
+[feature.fifteen]
+name = "COUNTRY_Armenia"
+protected_feature = "COUNTRY_Armenia"
+[feature.sixteen]
+name = "ACTIVITY_Tailoring"
+protected_feature = "ACTIVITY_Tailoring"
+[feature.seventeen]
+name = "COUNTRY_Tajikistan"
+protected_feature = "COUNTRY_Tajikistan"
+[feature.eighteen]
+name = "loan_buck_1"
+protected_feature = "loan_buck_1"
+[feature.nineteen]
+name = "pfr_buck_3"
+protected_feature = "pfr_buck_3"
+[feature.twenty]
+name = "COUNTRY_Madagascar"
+protected_feature = "COUNTRY_Madagascar"
+[feature.twentyone]
+name = "ACTIVITY_Pigs"
+protected_feature = "ACTIVITY_Pigs"
+[feature.twentytwo]
+name = "COUNTRY_Colombia"
+protected_feature = "COUNTRY_Colombia"
+[feature.twentythree]
+name = "ACTIVITY_Bakery"
+protected_feature = "ACTIVITY_Bakery"
+[feature.twentyfour]
+name = "COUNTRY_Samoa"
+protected_feature = "COUNTRY_Samoa"
+[feature.twentyfive]
+name = "loan_buck_3"
+protected_feature = "loan_buck_3"
+[feature.twentysix]
+name = "ACTIVITY_Clothing"
+protected_feature = "ACTIVITY_Clothing"
+[feature.twentyseven]
+name = "COUNTRY_Uganda"
+protected_feature = "COUNTRY_Uganda"
+[feature.twentyeight]
+name = "COUNTRY_Rwanda"
+protected_feature = "COUNTRY_Rwanda"
+[feature.twentynine]
+name = "loan_buck_9"
+protected_feature = "loan_buck_9"
+[feature.thirty]
+name = "COUNTRY_Peru"
+protected_feature = "COUNTRY_Peru"
+[feature.thirtyone]
+name = "loan_buck_7"
+protected_feature = "loan_buck_7"
+[feature.thirtytwo]
+name = "ACTIVITY_Cosmetics"
+protected_feature = "ACTIVITY_Cosmetics"
+[feature.thirtythree]
+name = "COUNTRY_Kenya"
+protected_feature = "COUNTRY_Kenya"
+[feature.thirtyfour]
+name = "ACTIVITY_Beverages"
+protected_feature = "ACTIVITY_Beverages"
+[feature.thirtyfive]
+name = "COUNTRY_Cambodia"
+protected_feature = "COUNTRY_Cambodia"
+[feature.thirtysix]
+name = "loan_buck_2"
+protected_feature = "loan_buck_2"
+[feature.thirtyseven]
+name = "ACTIVITY_low_pfr"
+protected_feature = "ACTIVITY_low_pfr"
+protected_values = [1]
+[feature.thirtyeight]
+name = "COUNTRY_Lebanon"
+protected_feature = "COUNTRY_Lebanon"
+[feature.thirtynine]
+name = "COUNTRY_Philippines"
+protected_feature = "COUNTRY_Philippines"
+[feature.forty]
+name = "COUNTRY_Paraguay"
+protected_feature = "COUNTRY_Paraguay"
+[feature.fortyone]
+name = "ACTIVITY_Shoe"
+protected_feature = "ACTIVITY_Shoe"
+[feature.fortytwo]
+name = "COUNTRY_Bolivia"
+protected_feature = "COUNTRY_Bolivia"
+[feature.fortythree]
+name = "ACTIVITY_General"
+protected_feature = "ACTIVITY_General"
+[feature.fortyfour]
+name = "COUNTRY_Ghana"
+protected_feature = "COUNTRY_Ghana"
+[feature.fortyfive]
+name = "ACTIVITY_Used"
+protected_feature = "ACTIVITY_Used"
+[feature.fortysix]
+name = "ACTIVITY_Agriculture"
+protected_feature = "ACTIVITY_Agriculture"
+[feature.fortyseven]
+name = "COUNTRY_Nicaragua"
+protected_feature = "COUNTRY_Nicaragua"
+[feature.fortyeight]
+name = "ACTIVITY_Charcoal"
+protected_feature = "ACTIVITY_Charcoal"
+[feature.fortynine]
+name = "COUNTRY_Congo"
+protected_feature = "COUNTRY_Congo"
+[feature.fifty]
+name = "loan_buck_8"
+protected_feature = "loan_buck_8"
+[feature.fiftyone]
+name = "ACTIVITY_Livestock"
+protected_feature = "ACTIVITY_Livestock"
+[feature.fiftytwo]
+name = "pfr_buck_0"
+protected_feature = "pfr_buck_0"
+[feature.fiftythree]
+name = "COUNTRY_El"
+protected_feature = "COUNTRY_El"
+[feature.fiftyfour]
+name = "ACTIVITY_Home"
+protected_feature = "ACTIVITY_Home"
+[feature.fiftyfive]
+name = "ACTIVITY_Motorcycle"
+protected_feature = "ACTIVITY_Motorcycle"
+[feature.fiftysix]
+name = "ACTIVITY_Recycled"
+protected_feature = "ACTIVITY_Recycled"
+[feature.fiftyseven]
+name = "ACTIVITY_Retail"
+protected_feature = "ACTIVITY_Retail"
+[feature.fiftyeight]
+name = "COUNTRY_Zimbabwe"
+protected_feature = "COUNTRY_Zimbabwe"
+[feature.fiftynine]
+name = "loan_buck_4"
+protected_feature = "loan_buck_4"
+[feature.sixty]
+name = "ACTIVITY_Mobile"
+protected_feature = "ACTIVITY_Mobile"
+[feature.sixtyone]
+name = "COUNTRY_Malawi"
+protected_feature = "COUNTRY_Malawi"
+[feature.sixtytwo]
+name = "ACTIVITY_Spare"
+protected_feature = "ACTIVITY_Spare"
+[feature.sixtythree]
+name = "COUNTRY_Burkina"
+protected_feature = "COUNTRY_Burkina"
+[feature.sixtyfour]
+name = "COUNTRY_Haiti"
+protected_feature = "COUNTRY_Haiti"
+[feature.sixtyfive]
+name = "ACTIVITY_Veterinary"
+protected_feature = "ACTIVITY_Veterinary"
+[feature.sixtysix]
+name = "ACTIVITY_Personal"
+protected_feature = "ACTIVITY_Personal"
+[feature.sixtyseven]
+name = "ACTIVITY_Jewelry"
+protected_feature = "ACTIVITY_Jewelry"
+[feature.sixtyeight]
+name = "ACTIVITY_Fishing"
+protected_feature = "ACTIVITY_Fishing"
+[feature.sixtynine]
+name = "COUNTRY_Ecuador"
+protected_feature = "COUNTRY_Ecuador"
+[feature.seventy]
+name = "ACTIVITY_Liquor"
+protected_feature = "ACTIVITY_Liquor"
+[feature.seventyone]
+name = "ACTIVITY_Animal"
+protected_feature = "ACTIVITY_Animal"
+[feature.seventytwo]
+name = "ACTIVITY_Higher"
+protected_feature = "ACTIVITY_Higher"
+[feature.seventythree]
+name = "COUNTRY_Brazil"
+protected_feature = "COUNTRY_Brazil"
+[feature.seventyfour]
+name = "ACTIVITY_Land"
+protected_feature = "ACTIVITY_Land"
+[feature.seventyfive]
+name = "COUNTRY_Senegal"
+protected_feature = "COUNTRY_Senegal"
+[feature.seventysix]
+name = "ACTIVITY_Manufacturing"
+protected_feature = "ACTIVITY_Manufacturing"
+[feature.seventyseven]
+name = "ACTIVITY_Cloth"
+protected_feature = "ACTIVITY_Cloth"
+[feature.seventyeight]
+name = "COUNTRY_Togo"
+protected_feature = "COUNTRY_Togo"
+[feature.seventynine]
+name = "COUNTRY_Honduras"
+protected_feature = "COUNTRY_Honduras"
+[feature.eighty]
+name = "COUNTRY_United"
+protected_feature = "COUNTRY_United"
+[feature.eightyone]
+name = "ACTIVITY_Cereals"
+protected_feature = "ACTIVITY_Cereals"
+[feature.eightytwo]
+name = "ACTIVITY_Construction"
+protected_feature = "ACTIVITY_Construction"
+[feature.eightythree]
+name = "ACTIVITY_Grocery"
+protected_feature = "ACTIVITY_Grocery"
+[feature.eightyfour]
+name = "COUNTRY_Vietnam"
+protected_feature = "COUNTRY_Vietnam"
+[feature.eightyfive]
+name = "COUNTRY_Cameroon"
+protected_feature = "COUNTRY_Cameroon"
+[feature.eightysix]
+name = "ACTIVITY_Fruits"
+protected_feature = "ACTIVITY_Fruits"
+[feature.eightyseven]
+name = "ACTIVITY_Weaving"
+protected_feature = "ACTIVITY_Weaving"
+[feature.eightyeight]
+name = "COUNTRY_Guatemala"
+protected_feature = "COUNTRY_Guatemala"
+[feature.eightynine]
+name = "COUNTRY_Pakistan"
+protected_feature = "COUNTRY_Pakistan"
+[feature.ninety]
+name = "ACTIVITY_Perfumes"
+protected_feature = "ACTIVITY_Perfumes"
+[feature.ninetyone]
+name = "COUNTRY_Tanzania"
+protected_feature = "COUNTRY_Tanzania"
+[feature.ninetytwo]
+name = "ACTIVITY_Butcher"
+protected_feature = "ACTIVITY_Butcher"
+[feature.ninetythree]
+name = "COUNTRY_Jordan"
+protected_feature = "COUNTRY_Jordan"
+[feature.ninetyfour]
+name = "COUNTRY_Egypt"
+protected_feature = "COUNTRY_Egypt"
+[feature.ninetyfive]
+name = "ACTIVITY_Dairy"
+protected_feature = "ACTIVITY_Dairy"
+[feature.ninetysix]
+name = "ACTIVITY_Timber"
+protected_feature = "ACTIVITY_Timber"
+[feature.ninetyseven]
+name = "ACTIVITY_Barber"
+protected_feature = "ACTIVITY_Barber"
+[feature.ninetyeight]
+name = "COUNTRY_Kosovo"
+protected_feature = "COUNTRY_Kosovo"
+[feature.ninetynine]
+name = "ACTIVITY_Internet"
+protected_feature = "ACTIVITY_Internet"
+[feature.onehundred]
+name = "COUNTRY_Sierra"
+protected_feature = "COUNTRY_Sierra"
+[feature.onehundredandone]
+name = "ACTIVITY_Crafts"
+protected_feature = "ACTIVITY_Crafts"
+[feature.onehundredandtwo]
+name = "ACTIVITY_Beauty"
+protected_feature = "ACTIVITY_Beauty"
+[feature.onehundredandthree]
+name = "ACTIVITY_Farm"
+protected_feature = "ACTIVITY_Farm"
+[feature.onehundredandfour]
+name = "ACTIVITY_Primary/secondary"
+protected_feature = "ACTIVITY_Primary/secondary"
+[feature.onehundredandfive]
+name = "ACTIVITY_Fish"
+protected_feature = "ACTIVITY_Fish"
+[feature.onehundredandsix]
+name = "ACTIVITY_Restaurant"
+protected_feature = "ACTIVITY_Restaurant"
+[feature.onehundredandseven]
+name = "ACTIVITY_Property"
+protected_feature = "ACTIVITY_Property"
+[feature.onehundredandeight]
+name = "ACTIVITY_Wholesale"
+protected_feature = "ACTIVITY_Wholesale"
+[feature.onehundredandnine]
+name = "ACTIVITY_Sewing"
+protected_feature = "ACTIVITY_Sewing"
+[feature.onehundredandten]
+name = "ACTIVITY_Vehicle"
+protected_feature = "ACTIVITY_Vehicle"
+[feature.onehundredandeleven]
+name = "ACTIVITY_Natural"
+protected_feature = "ACTIVITY_Natural"
+[feature.onehundredandtwelve]
+name = "ACTIVITY_Electrical"
+protected_feature = "ACTIVITY_Electrical"
+[feature.onehundredandthirteen]
+name = "ACTIVITY_Furniture"
+protected_feature = "ACTIVITY_Furniture"
+[feature.onehundredandfourteen]
+name = "ACTIVITY_Plastics"
+protected_feature = "ACTIVITY_Plastics"
+[feature.onehundredandfifteen]
+name = "COUNTRY_Myanmar"
+protected_feature = "COUNTRY_Myanmar"
+[feature.onehundredandsixteen]
+name = "ACTIVITY_Pharmacy"
+protected_feature = "ACTIVITY_Pharmacy"
+[feature.onehundredandseventeen]
+name = "ACTIVITY_Carpentry"
+protected_feature = "ACTIVITY_Carpentry"
+[feature.onehundredandeighteen]
+name = "ACTIVITY_Flowers"
+protected_feature = "ACTIVITY_Flowers"
+[feature.onehundredandnineteen]
+name = "ACTIVITY_Landscaping"
+protected_feature = "ACTIVITY_Landscaping"
+[feature.onehundredandtwenty]
+name = "ACTIVITY_Milk"
+protected_feature = "ACTIVITY_Milk"
+[feature.onehundredandtwentyone]
+name = "ACTIVITY_Embroidery"
+protected_feature = "ACTIVITY_Embroidery"
+[feature.onehundredandtwentytwo]
+name = "ACTIVITY_Auto"
+protected_feature = "ACTIVITY_Auto"
+[feature.onehundredandtwentythree]
+name = "ACTIVITY_Consumer"
+protected_feature = "ACTIVITY_Consumer"
+[feature.onehundredandtwentyfour]
+name = "ACTIVITY_Education"
+protected_feature = "ACTIVITY_Education"
+[feature.onehundredandtwentyfive]
+name = "ACTIVITY_Computer"
+protected_feature = "ACTIVITY_Computer"
+[feature.onehundredandtwentysix]
+name = "ACTIVITY_Goods"
+protected_feature = "ACTIVITY_Goods"
+[feature.onehundredandtwentyseven]
+name = "ACTIVITY_Textiles"
+protected_feature = "ACTIVITY_Textiles"
+[feature.onehundredandtwentyeight]
+name = "ACTIVITY_Dental"
+protected_feature = "ACTIVITY_Dental"
+[feature.onehundredandtwentynine]
+name = "COUNTRY_Mozambique"
+protected_feature = "COUNTRY_Mozambique"
+[feature.onehundredandthirty]
+name = "ACTIVITY_Musical"
+protected_feature = "ACTIVITY_Musical"
+[feature.onehundredandthirtyone]
+name = "COUNTRY_Kyrgyzstan"
+protected_feature = "COUNTRY_Kyrgyzstan"
+[feature.onehundredandthirtytwo]
+name = "ACTIVITY_Arts"
+protected_feature = "ACTIVITY_Arts"
+[feature.onehundredandthirtythree]
+name = "ACTIVITY_Cleaning"
+protected_feature = "ACTIVITY_Cleaning"
+[feature.onehundredandthirtyfour]
+name = "ACTIVITY_Beekeeping"
+protected_feature = "ACTIVITY_Beekeeping"
+[feature.onehundredandthirtyfive]
+name = "COUNTRY_Mali"
+protected_feature = "COUNTRY_Mali"
+[feature.onehundredandthirtysix]
+name = "ACTIVITY_Metal"
+protected_feature = "ACTIVITY_Metal"
+[feature.onehundredandthirtyseven]
+name = "ACTIVITY_Electronics"
+protected_feature = "ACTIVITY_Electronics"
+[feature.onehundredandthirtyeight]
+name = "ACTIVITY_Games"
+protected_feature = "ACTIVITY_Games"
+[feature.onehundredandthirtynine]
+name = "ACTIVITY_Decorations"
+protected_feature = "ACTIVITY_Decorations"
+[feature.onehundredandforty]
+name = "ACTIVITY_Renewable"
+protected_feature = "ACTIVITY_Renewable"
+[feature.onehundredandfortyone]
+name = "ACTIVITY_Bookstore"
+protected_feature = "ACTIVITY_Bookstore"
+[feature.onehundredandfortytwo]
+name = "ACTIVITY_Printing"
+protected_feature = "ACTIVITY_Printing"
+[feature.onehundredandfortythree]
+name = "ACTIVITY_Florist"
+protected_feature = "ACTIVITY_Florist"
+[feature.onehundredandfortyfour]
+name = "ACTIVITY_Blacksmith"
+protected_feature = "ACTIVITY_Blacksmith"
+[feature.onehundredandfortyfive]
+name = "ACTIVITY_Recycling"
+protected_feature = "ACTIVITY_Recycling"
+[feature.onehundredandfortysix]
+name = "ACTIVITY_Laundry"
+protected_feature = "ACTIVITY_Laundry"
+[feature.onehundredandfortyseven]
+name = "ACTIVITY_Computers"
+protected_feature = "ACTIVITY_Computers"
+[feature.onehundredandfortyeight]
+name = "ACTIVITY_Sporting"
+protected_feature = "ACTIVITY_Sporting"
+[feature.onehundredandfortynine]
+name = "ACTIVITY_Office"
+protected_feature = "ACTIVITY_Office"
+[feature.onehundredandfifty]
+name = "ACTIVITY_Wedding"
+protected_feature = "ACTIVITY_Wedding"
+[feature.onehundredandfiftyone]
+name = "ACTIVITY_Cheese"
+protected_feature = "ACTIVITY_Cheese"
+[feature.onehundredandfiftytwo]
+name = "ACTIVITY_Bricks"
+protected_feature = "ACTIVITY_Bricks"
+[feature.onehundredandfiftythree]
+name = "ACTIVITY_Phone"
+protected_feature = "ACTIVITY_Phone"
+[feature.onehundredandfiftyfour]
+name = "ACTIVITY_Music"
+protected_feature = "ACTIVITY_Music"
+[feature.onehundredandfiftyfive]
+name = "ACTIVITY_Machine"
+protected_feature = "ACTIVITY_Machine"
+[feature.onehundredandfiftysix]
+name = "ACTIVITY_Child"
+protected_feature = "ACTIVITY_Child"
+[feature.onehundredandfiftyseven]
+name = "ACTIVITY_Event"
+protected_feature = "ACTIVITY_Event"
+[feature.onehundredandfiftyeight]
+name = "ACTIVITY_Knitting"
+protected_feature = "ACTIVITY_Knitting"
+[feature.onehundredandfiftynine]
+name = "ACTIVITY_Waste"
+protected_feature = "ACTIVITY_Waste"
+[feature.onehundredandsixty]
+name = "ACTIVITY_Water"
+protected_feature = "ACTIVITY_Water"
+[feature.onehundredandsixtyone]
+name = "ACTIVITY_Bicycle"
+protected_feature = "ACTIVITY_Bicycle"
+[feature.onehundredandsixtytwo]
+name = "ACTIVITY_Call"
+protected_feature = "ACTIVITY_Call"
+[feature.onehundredandsixtythree]
+name = "ACTIVITY_Movie"
+protected_feature = "ACTIVITY_Movie"
+[feature.onehundredandsixtyfour]
+name = "ACTIVITY_Quarrying"
+protected_feature = "ACTIVITY_Quarrying"
+[feature.onehundredandsixtyfive]
+name = "ACTIVITY_Secretarial"
+protected_feature = "ACTIVITY_Secretarial"

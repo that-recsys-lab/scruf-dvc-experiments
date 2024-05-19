@@ -5,11 +5,14 @@ stages:
     params:
       params.yaml:
         config.allocation:
+        - least_fair
+        - product_lottery
         - weighted_product_allocation
         config.choice:
         - RuleBorda
         - RuleCopeland
+        - weighted_scoring
         config.rec_weight:
-        - 0.1
+        - 0.6
   run_scruf:
     cmd: python ../scruf_d/__main__MODIFY.py
