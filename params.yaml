@@ -1,9 +1,0 @@
-config:
-  choice: ['RuleBorda']
-  allocation: ['product_lottery']
-  rec_weight: [2]
-
-post:
-  agents: [[[‘metric1’, 0.25, ‘feature1’], [‘agent2’, ‘metric2’, ‘feature2’]]]
-
-

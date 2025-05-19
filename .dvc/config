@@ -1,0 +1,6 @@
+[hydra]
+    enabled = True
+['remote "saved_results"']
+    url = ../saved_results
+[core]
+    remote = saved_results

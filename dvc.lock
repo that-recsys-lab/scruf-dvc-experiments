@@ -1,14 +1,30 @@
 schema: '2.0'
 stages:
-  config_generation:
-    cmd: python ../scruf_d/_toml_gen.py
-    params:
-      params.yaml:
-        config.allocation:
-        - product_lottery
-        config.choice:
-        - RuleBorda
-        config.rec_weight:
-        - 2
-  run_scruf:
-    cmd: python ../scruf_d/__main__MODIFY.py
+  run:
+    cmd: python /Users/call/Github/scruf_d/__main__.py params.yaml
+    deps:
+    - path: params.yaml
+      hash: md5
+      md5: 8fb2c1cc23230f0b7c1f2cc3cbcc9f7b
+      size: 1487
+    outs:
+    - path: results/history.parquet
+      hash: md5
+      md5: 6cd6fc96c6646f38b69ef6704581ee1d
+      size: 2517100
+  postprocess:
+    cmd: python post.py
+    deps:
+    - path: params.yaml
+      hash: md5
+      md5: 8fb2c1cc23230f0b7c1f2cc3cbcc9f7b
+      size: 1487
+    - path: results/history.parquet
+      hash: md5
+      md5: 6cd6fc96c6646f38b69ef6704581ee1d
+      size: 2517100
+    outs:
+    - path: eval/metrics.json
+      hash: md5
+      md5: d5ee25f6b2dfcb8bb7b7aa0d5ece21e8
+      size: 60
